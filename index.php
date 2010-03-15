@@ -6,7 +6,7 @@
  * which accompanies this distribution, and is available at
  * http://www.eclipse.org/legal/epl-v10.html
  *
- * Contributors:
+ * Contributors: mkeith
  *    
  *******************************************************************************/
 
@@ -16,9 +16,9 @@
 	$localVersion = false;
 	
 	# Define these here, or in _projectCommon.php for site-wide values
-	$pageKeywords	= "eclipse, project";
-	$pageAuthor		= "Your name";
-	$pageTitle 		= "My project home";
+	$pageKeywords	= "eclipse, project, gemini";
+	$pageAuthor		= "Mike Keith";
+	$pageTitle 		= "Gemini Home";
 	
 	
 	// 	# Paste your HTML content between the EOHTML markers!
