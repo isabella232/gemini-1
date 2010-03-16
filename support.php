@@ -10,15 +10,14 @@
  *    
  *******************************************************************************/
 
-	$pageTitle 		= "Gemini Downloads";
+	$pageTitle 		= "Gemini Support";
 	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/default/style.css"/>');
 
 	$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
-
-<h2>No downloads are currently available.</h2>
+<p/>
+<p>You can get support for all Gemini subprojects by posting to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">Gemini forum</a></p>. Please be sure to indicate the exact nature of your question or problem, including any stack traces or additional information.
 
 </div>
 EOHTML;

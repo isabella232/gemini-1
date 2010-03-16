@@ -10,15 +10,14 @@
  *    
  *******************************************************************************/
 
-	$pageTitle 		= "Gemini Downloads";
+	$pageTitle 		= "Getting Involved in Gemini";
 	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/default/style.css"/>');
 
 	$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
-
-<h2>No downloads are currently available.</h2>
+<p/>
+<p>You can get involved in Gemini by either being a contributor to a Gemini subproject, or even starting another Gemini subproject. Post a message to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">Gemini forum</a></p> to indicate that you would like to get involved, and how/what you would like to contribute.
 
 </div>
 EOHTML;
