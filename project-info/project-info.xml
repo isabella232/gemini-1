@@ -65,7 +65,7 @@
      -       <module path="org.eclipse.higgins" />
      -     </cvs>
     -->
-  <cvs repository="/svnroot/rt/">
+  <cvs repository="/svnroot/rt/gemini/">
     <module path="org.eclipse.gemini" /> 
   </cvs>
 
