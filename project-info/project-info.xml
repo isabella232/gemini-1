@@ -21,13 +21,13 @@
      - database; You can override the name stored on the database by filling 
      - the <name/> tag
     -->
-  <name>Phoenix Project</name>
+  <name>Enterprise Modules Project</name>
     
   <!--     
      - Each project can also have a short name to be used in HTML lists and 
      - other horizontally challenged places.
     -->
-  <short-name>Phoenix</short-name>
+  <short-name>Gemini</short-name>
   
   <!--
      - Each Eclipse project has one or more Bugzilla products and components.
@@ -40,7 +40,7 @@
      - page of the first product. Multiple <product>s are allowed.
     -->
   <bugzilla>
-    <product name="Phoenix"/>
+    <product name="Gemini"/>
   </bugzilla>
 
   <!--
@@ -50,7 +50,7 @@
      - they are the project leaders.  The <team> element contains the 
      - URL of the project's pages listing these important people.
     -->
-  <team url="/phoenix/about.php" />
+  <team url="/gemini/about.php" />
   
   <!--
      - The source code of each Eclipse project is stored in CVS. Eclipse maintains
@@ -65,8 +65,8 @@
      -       <module path="org.eclipse.higgins" />
      -     </cvs>
     -->
-  <cvs repository="/cvsroot/technology/">
-    <module path="org.eclipse.phoenix" /> 
+  <cvs repository="/svnroot/rt/">
+    <module path="org.eclipse.gemini" /> 
   </cvs>
 
   <!--
@@ -84,8 +84,8 @@
      -       This file is often stored in the /project-info/ directory, thus the
      -       url would be something like "/tptp/project-info/description.html".
     -->
-  <description url="/phoenix/about.php"
-     paragraph-url="/phoenix/project-info/project-page-paragraph.html"/>
+  <description url="/gemini/about.php"
+     paragraph-url="/gemini/project-info/project-page-paragraph.html"/>
   
   <!--
      - In addition to the description, each Eclipse project is also required to
@@ -97,7 +97,7 @@
      - This file is often stored in the /project-info/ directory, thus the
      - url would be something like "/technology/project-info/executive-summary.html".
     -->
-  <summary paragraph-url="/technology/phoenix/project-info/executive-summary.html"/>
+  <summary paragraph-url="/gemini/project-info/executive-summary.html"/>
 
   <!--
      - It is important to help new users get started with an Eclipse project
@@ -106,7 +106,7 @@
      - points to a web page on the project's site that describes how to
      - get started using and extending the project's tools and frameworks.
     -->
-  <getting-started url="/phoenix/docs/" />
+  <getting-started url="/gemini/docs/getting_started.html" />
   
   <!--
      - It is also important to help new contributors get started with an Eclipse project.
@@ -115,7 +115,7 @@
      - points to a web page on the project's site that describes how to
      - get started developing on, and contributing to, the project.
     -->
-  <contributing url="/phoenix/docs/" />
+  <contributing url="/gemini/docs/getting_started_developing.html" />
   
   <!--
      - Each Eclipse project is required to maintain a current Project IP Log.
@@ -140,7 +140,7 @@
      - the separate project-info/maillist file as well.
     -->
   <mailing-lists>
-    <list name="phoenix-dev"/>
+    <list name="gemini-dev"/>
   </mailing-lists>
   
   <!--
@@ -153,7 +153,7 @@
      - newsgroups page. Multiple <newsgroups>s are allowed.
     -->
   <newsgroups>
-    <newsgroup name="eclipse.technology.phoenix" />
+    <newsgroup name="eclipse.rt.gemini" />
   </newsgroups>
   
   <!--
@@ -175,7 +175,7 @@
      - community and ecosystem to understand what will be delivered and when
      - it will be delivered.
     -->
-  <project-plan url="" />
+  <project-plan url="/gemini/project_plan.html" />
 
   <!--
      - Each Eclipse project creates (optional) nightly builds and milestone builds,
