@@ -16,8 +16,8 @@
 	$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-
-<h2>Documentation is in the process of being written for Gemini.</h2>
+</p>
+<p>Documentation is in the process of being written for Gemini.</p>
 
 </div>
 EOHTML;

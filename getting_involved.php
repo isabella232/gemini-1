@@ -17,7 +17,7 @@
 <div id="midcolumn">
 <h2>$pageTitle</h2>
 <p/>
-<p>You can get involved in Gemini by either being a contributor to a Gemini subproject, or even starting another Gemini subproject. Post a message to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">Gemini forum</a></p> to indicate that you would like to get involved, and how/what you would like to contribute.
+<p>You can get involved in Gemini by either being a contributor to a Gemini subproject, or even starting another Gemini subproject. Post a message to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">Gemini forum</a> to indicate that you would like to get involved, and how/what you would like to contribute.
 
 </div>
 EOHTML;

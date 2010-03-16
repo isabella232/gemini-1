@@ -25,14 +25,14 @@
 	# $Nav->setLinkList(array());
 	
 	# Break the navigation into sections
-	$Nav->addNavSeparator("Gemini", 	"/default");
+	$Nav->addNavSeparator("Gemini", 	"/gemini");
 	$Nav->addCustomNav("Download", "/gemini/download.php", "_self", 3);
 	$Nav->addCustomNav("Documentation", "/gemini/documentation.php", "_blank", 3);
 	$Nav->addCustomNav("Support", "/gemini/support.php", "_blank", 3);
-	$Nav->addCustomNav("Getting Involved", "/gemini/developers.php", "_blank", 3);
+	$Nav->addCustomNav("Getting Involved", "/gemini/getting_involved.php", "_blank", 3);
 
 	# Define keywords, author and title here, or in each PHP page specifically
-	$pageKeywords	= "javaee, osgi, enterprise, module";
+	$pageKeywords	= "javaee, osgi, enterprise, module, gemini";
 	$pageAuthor		= "Mike Keith";
 	$pageTitle 		= "Gemini";
 

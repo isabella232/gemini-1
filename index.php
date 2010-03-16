@@ -16,7 +16,7 @@
 	$localVersion = false;
 	
 	# Define these here, or in _projectCommon.php for site-wide values
-	$pageKeywords	= "eclipse, project, gemini";
+	$pageKeywords	= "eclipse, project, gemini, modules, osgi, enterprise";
 	$pageAuthor		= "Mike Keith";
 	$pageTitle 		= "Gemini Home";
 	

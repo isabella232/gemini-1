@@ -17,7 +17,7 @@
 <div id="midcolumn">
 <h2>$pageTitle</h2>
 <p/>
-<p>You can get support for all Gemini subprojects by posting to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">Gemini forum</a></p>. Please be sure to indicate the exact nature of your question or problem, including any stack traces or additional information.
+<p>You can get support for all Gemini subprojects by posting to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">Gemini forum</a>. Please be sure to indicate the exact nature of your question or problem, including any stack traces or additional information.
 
 </div>
 EOHTML;
