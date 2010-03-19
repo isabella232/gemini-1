@@ -10,15 +10,14 @@
  *    
  *******************************************************************************/
 
-	$pageTitle 		= "Gemini JPA Downloads";
-	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/jpa/style.css"/>');
+	$pageTitle 		= "Gemini JPA Documentation";
+	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/default/style.css"/>');
 
 	$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
-
-<h2>No downloads are currently available.</h2>
+</p>
+<p>Documentation is in the process of being written for Gemini JPA.</p>
 
 </div>
 EOHTML;

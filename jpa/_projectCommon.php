@@ -25,16 +25,16 @@
 	# $Nav->setLinkList(array());
 	
 	# Break the navigation into sections
-	$Nav->addNavSeparator("MyProject", 	"/default");
-	$Nav->addCustomNav("Download", "/project/download.php", "_self", 3);
-	$Nav->addCustomNav("Documentation", "/project/documentation.php", "_blank", 3);
-	$Nav->addCustomNav("Support", "/project/support.php", "_blank", 3);
-	$Nav->addCustomNav("Getting Involved", "/project/developers", "_blank", 3);
+	$Nav->addNavSeparator("Gemini JPA", 	"/jpa");
+	$Nav->addCustomNav("Download", "/jpa/download.php", "_self", 3);
+	$Nav->addCustomNav("Documentation", "/jpa/documentation.php", "_blank", 3);
+	$Nav->addCustomNav("Support", "/jpa/support.php", "_blank", 3);
+	$Nav->addCustomNav("Getting Involved", "/jpa/getting_involved.php", "_blank", 3);
 
 	# Define keywords, author and title here, or in each PHP page specifically
-	$pageKeywords	= "xtext, dsl, modeling, domain specific language, textual";
-	$pageAuthor		= "Your name";
-	# $pageTitle 		= "Xtext";
+	$pageKeywords	= "javaee, osgi, enterprise, module, gemini";
+	$pageAuthor		= "Mike Keith";
+	$pageTitle 		= "Gemini JPA";
 
 
 	# top navigation bar
