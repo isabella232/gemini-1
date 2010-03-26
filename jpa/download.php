@@ -21,6 +21,16 @@
 <h2>No downloads are currently available.</h2>
 
 </div>
+
+<div id="rightcolumn">
+
+<div class="sideitem">
+   <h6>Incubation</h6>
+   <div align="center"><a href="/projects/what-is-incubation.php"><img 
+        align="center" src="/images/egg-incubation.png" 
+        border="0" alt="Incubation" /></a></div>
+ </div>
+
 EOHTML;
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
