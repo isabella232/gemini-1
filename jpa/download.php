@@ -11,7 +11,7 @@
  *******************************************************************************/
 
 	$pageTitle 		= "Gemini JPA Downloads";
-	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/jpa/style.css"/>');
+/*	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/jpa/style.css"/>'); */
 
 	$html  = <<<EOHTML
 <div id="midcolumn">

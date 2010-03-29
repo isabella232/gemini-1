@@ -11,7 +11,7 @@
  *******************************************************************************/
 
 	$pageTitle 		= "Gemini Downloads";
-	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/default/style.css"/>');
+/*	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/default/style.css"/>'); */
 
 	$html  = <<<EOHTML
 <div id="midcolumn">
