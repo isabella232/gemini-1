@@ -10,7 +10,7 @@
  *    
  *******************************************************************************/
 
-	$pageTitle 		= "Gemini Naming - Downloads";
+	$pageTitle 		= "Gemini Naming Downloads";
 	#$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/gemini/naming/style.css"/>');
 
 	$html  = <<<EOHTML
