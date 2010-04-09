@@ -25,11 +25,11 @@
 	# $Nav->setLinkList(array());
 	
 	# Break the navigation into sections
-	$Nav->addNavSeparator("Gemini Naming", 	"/naming");
-	$Nav->addCustomNav("Download", "/naming/download.php", "_self", 3);
-	$Nav->addCustomNav("Documentation", "/naming/documentation.php", "_blank", 3);
-	$Nav->addCustomNav("Support", "/naming/support.php", "_blank", 3);
-	$Nav->addCustomNav("Getting Involved", "/naming/developers", "_blank", 3);
+	$Nav->addNavSeparator("Gemini Naming", 	"/gemini/naming");
+	$Nav->addCustomNav("Download", "/gemini/naming/download.php", "_self", 3);
+	$Nav->addCustomNav("Documentation", "/gemini/naming/documentation.php", "_blank", 3);
+	$Nav->addCustomNav("Support", "/gemini/naming/support.php", "_blank", 3);
+	$Nav->addCustomNav("Getting Involved", "/gemini/naming/developers", "_blank", 3);
 
 	# Define keywords, author and title here, or in each PHP page specifically
 	$pageKeywords	= "eclipse, project, osgi, naming , gemini";
