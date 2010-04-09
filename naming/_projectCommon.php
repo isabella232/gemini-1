@@ -35,7 +35,7 @@
 	$pageKeywords	= "eclipse, project, osgi, naming , gemini";
 	$pageAuthor		= "Bob Nettleton";
 	$pageTitle 		= "Gemini Naming";
-	$namingStyleSheet = "/gemini/naming/style.css";
+	
 
 
 	# top navigation bar
