@@ -25,11 +25,11 @@
 	# $Nav->setLinkList(array());
 	
 	# Break the navigation into sections
-	$Nav->addNavSeparator("Gemini JPA", 	"/jpa");
-	$Nav->addCustomNav("Download", "/jpa/download.php", "_self", 3);
-	$Nav->addCustomNav("Documentation", "/jpa/documentation.php", "_blank", 3);
-	$Nav->addCustomNav("Support", "/jpa/support.php", "_blank", 3);
-	$Nav->addCustomNav("Getting Involved", "/jpa/getting_involved.php", "_blank", 3);
+	$Nav->addNavSeparator("Gemini JPA", 	"/gemini/jpa");
+	$Nav->addCustomNav("Download", "/gemini/jpa/download.php", "_self", 3);
+	$Nav->addCustomNav("Documentation", "/gemini/jpa/documentation.php", "_blank", 3);
+	$Nav->addCustomNav("Support", "/gemini/jpa/support.php", "_blank", 3);
+	$Nav->addCustomNav("Getting Involved", "/gemini/jpa/getting_involved.php", "_blank", 3);
 
 	# Define keywords, author and title here, or in each PHP page specifically
 	$pageKeywords	= "javaee, osgi, enterprise, module, gemini";
