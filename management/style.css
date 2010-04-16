@@ -14,6 +14,12 @@
 }
 
 
+#leftcolumn {
+    padding: 10px;
+    width: 48%;
+    float: left;
+}
+
 #links {
 	padding: 6px 6px 6px 6px;
     margin: 10px 10px;
