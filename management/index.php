@@ -17,8 +17,8 @@
 	
 	# Define these here, or in _projectCommon.php for site-wide values
 	$pageKeywords	= "eclipse, project";
-	$pageAuthor		= "Your name";
-	$pageTitle 		= "My project home";
+	$pageAuthor		= "Mike keith";
+	$pageTitle 		= "Gemini Management";
 	
 	
 	// 	# Paste your HTML content between the EOHTML markers!
