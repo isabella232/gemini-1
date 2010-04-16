@@ -13,6 +13,13 @@
 	padding: 0 10px 10px 10px;
 }
 
+#links {
+    padding: 6px 6px 6px 6px;
+    margin: 10px 10px;
+    list-style-type: none;
+    list-style-image: none;
+}
+
 h3 {
 	clear: both;
 }
