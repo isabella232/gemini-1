@@ -25,16 +25,16 @@
 	# $Nav->setLinkList(array());
 	
 	# Break the navigation into sections
-	$Nav->addNavSeparator("MyProject", 	"/default");
-	$Nav->addCustomNav("Download", "/project/download.php", "_self", 3);
-	$Nav->addCustomNav("Documentation", "/project/documentation.php", "_blank", 3);
-	$Nav->addCustomNav("Support", "/project/support.php", "_blank", 3);
-	$Nav->addCustomNav("Getting Involved", "/project/developers", "_blank", 3);
+	$Nav->addNavSeparator("Gemin Management", 	"/gemini/management");
+	$Nav->addCustomNav("Download", "/gemini/management/download.php", "_self", 3);
+	$Nav->addCustomNav("Documentation", "/gemini/management/documentation.php", "_blank", 3);
+	$Nav->addCustomNav("Support", "/gemini/management/support.php", "_blank", 3);
+	$Nav->addCustomNav("Getting Involved", "/gemini/management/getting_involved.php", "_blank", 3);
 
 	# Define keywords, author and title here, or in each PHP page specifically
-	$pageKeywords	= "xtext, dsl, modeling, domain specific language, textual";
-	$pageAuthor		= "Your name";
-	# $pageTitle 		= "Xtext";
+	$pageKeywords	= "osgi, jmx, javaee, gemini, enterprise, modules";
+	$pageAuthor		= "Mike Keith";
+	$pageTitle 		= "Gemini Management";
 
 
 	# top navigation bar
@@ -47,7 +47,7 @@
 	# $Menu->addMenuItem("Developers", "/project/developers", "_self");
 	
 	# To define additional CSS or other pre-body headers
-	# $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/default/style.css"/>');
+	# $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="style.css"/>');
 	
 	# To enable occasional Eclipse Foundation Promotion banners on your pages (EclipseCon, etc)
 	$App->Promotion = TRUE;
