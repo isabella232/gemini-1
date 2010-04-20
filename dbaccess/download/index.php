@@ -5,7 +5,7 @@
 	$App 	= new App();	
 	$Nav	= new Nav();	
 	$Menu 	= new Menu();		
-	incltude($App->getProjectCommon());
+	include($App->getProjectCommon());
 	
 /*******************************************************************************
  * Copyright (c) 2009 Eclipse Foundation and others.
@@ -20,54 +20,38 @@
  *******************************************************************************/
 
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Gemini DB Access - Home";
-	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, Home";
+	$pageTitle 		= "Gemini DB Access - Downloads";
+	$pageKeywords	= "Eclipse, EclipseRT, OSGi, Downloads";
 	$pageAuthor		= "Mike Keith";
-			
+		
 	ob_start();
 ?>
+	
 	<div id="midcolumn">
-		<div class="logo"><h1>Gemini DB Access</h1></div>
+		<h2>Downloads</h2>
 		<p>
-			The Gemini DB Access project provides modularized distributions of JDBC drivers, currently suitable for running in OSGi. 
-			While the list is currently fairly short, it is expected to grow as the needs of its users grow and resources to implement 
-			them increase.
+			All downloads are provided under the terms and conditions of the 
+			<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.
 		</p>
-		
+		<p>
+		    No downloads are currently available.
+		</p>
 	</div>
 
 	<!-- remove the entire <div> tag to omit the right column!  -->
 	<div id="rightcolumn">
 		<div class="sideitem">
-			<h6>Quick Links</h6>
-			<ul>
-				<li><a href="http://wiki.eclipse.org/Gemini">Gemini Wiki</a></li>
-				<li><a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153&">Gemini Forum</a></li>  
-				<li><a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">Developer Mailing List</a></li>
-				<li><a href="http://www.eclipse.org/projects/project_summary.php?projectid=rt.gemini">Project Summary</a></li>
-				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;order=Importance;classification=RT;product=Gemini">Gemini Bugzilla</a></li>
-			</ul>
-		</div>
-		<div class="sideitem">
 			<h6>Incubation</h6>
 			<div id="incubation">
 				<a href="/projects/what-is-incubation.php">
-					<img align="center" src="/gemini/web/images/egg-incubation.png" border="0" alt="Incubation" />
+					<img align="center" src="/images/egg-incubation.png" border="0" alt="Incubation" />
 				</a>
 			</div>
-		</div>		
-		<!-- div class="sideitem">
-			<h6>&lt;h6&gt; tag</h6>
-				<div class="modal">
-					Wrapping your content using a div.modal tag here will add the gradient background
-				</div>
-		</div -->
+		</div>
 	</div>
 
-	
 <?
 	$html = ob_get_clean();
-
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
 ?>

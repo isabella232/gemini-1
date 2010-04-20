@@ -7,7 +7,8 @@
  * which accompanies this distribution, and is available at
  * http://www.eclipse.org/legal/epl-v10.html
  *
- * Contributors:
+ * Contributors: Christopher Frost
+ *               Mike Keith
  *    
  *******************************************************************************/
 
@@ -25,17 +26,18 @@
 	# $Nav->setLinkList(array());
 	
 	# Break the navigation into sections
-	$Nav->addNavSeparator("MyProject", 	"/default");
-	$Nav->addCustomNav("Download", "/project/download.php", "_self", 3);
-	$Nav->addCustomNav("Documentation", "/project/documentation.php", "_blank", 3);
-	$Nav->addCustomNav("Support", "/project/support.php", "_blank", 3);
-	$Nav->addCustomNav("Getting Involved", "/project/developers", "_blank", 3);
+	$Nav->addNavSeparator("Gemini Home", 	"/gemini/dbaccess/");
+	$Nav->addCustomNav("Gemini Web Home",	"/gemini/dbaccess/", 				"_self", 3);
+	$Nav->addCustomNav("Download", 			"/gemini/dbaccess/download", 		"_self", 3);
+	$Nav->addCustomNav("Documentation", 	"/gemini/dbaccess/documentation",	"_self", 3);
+	$Nav->addCustomNav("Support", 			"/gemini/dbaccess/support", 			"_self", 3);
+	$Nav->addCustomNav("Getting Involved", 	"/gemini/dbaccess/contribute",		"_self", 3);
+	$Nav->addCustomNav("About Gemini", 		"/gemini/dbaccess/about",    		"_self", 3);
 
 	# Define keywords, author and title here, or in each PHP page specifically
-	$pageKeywords	= "xtext, dsl, modeling, domain specific language, textual";
-	$pageAuthor		= "Your name";
-	# $pageTitle 		= "Xtext";
-
+	# $pageKeywords	= "eclipse, OSGi, gemini";
+	# $pageAuthor		= "Mike Keith";
+	# $pageTitle 		= "Gemini DBAccess";
 
 	# top navigation bar
 	# To override and replace the navigation with your own, uncomment the line below.
@@ -47,11 +49,11 @@
 	# $Menu->addMenuItem("Developers", "/project/developers", "_self");
 	
 	# To define additional CSS or other pre-body headers
-	# $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/default/style.css"/>');
+	$App->AddExtraHtmlHeader('<link media="screen" rel="stylesheet" type="text/css" href="/gemini/dbaccess/resources/local.css"/>');
 	
 	# To enable occasional Eclipse Foundation Promotion banners on your pages (EclipseCon, etc)
 	$App->Promotion = TRUE;
 	
 	# If you have Google Analytics code, use it here
-	# $App->SetGoogleAnalyticsTrackingCode("YOUR_CODE");
+	# $App->SetGoogleAnalyticsTrackingCode("UA-15496793-1");
 ?>
