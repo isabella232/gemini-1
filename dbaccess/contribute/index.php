@@ -28,10 +28,10 @@
 ?>
 	
 	<div id="midcolumn">
-		<h2>Contributing to the Project</h2>
+		<h2>Contributing to DB Access</h2>
 		<p>
 			If you have a JDBC driver that you would like to either use or have already implemented as a module then
-			please either subscribe and send an email to the <a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">developer mailing list</a> or post to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">forum</a>.
+			please either subscribe to and send an email to the <a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">developer mailing list</a> or post to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">forum</a>.
 		</p>
 		
 		<p>

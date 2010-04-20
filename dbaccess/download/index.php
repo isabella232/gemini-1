@@ -28,7 +28,7 @@
 ?>
 	
 	<div id="midcolumn">
-		<h2>Downloads</h2>
+		<h2>Gemini DB Access Downloads</h2>
 		<p>
 			All downloads are provided under the terms and conditions of the 
 			<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.
