@@ -5,7 +5,7 @@
 	$App 	= new App();	
 	$Nav	= new Nav();	
 	$Menu 	= new Menu();		
-	incltude($App->getProjectCommon());
+	include($App->getProjectCommon());
 	
 /*******************************************************************************
  * Copyright (c) 2009 Eclipse Foundation and others.
@@ -29,8 +29,8 @@
 	<div id="midcolumn">
 		<div class="logo"><h1>Gemini DB Access</h1></div>
 		<p>
-			The Gemini DB Access project provides modularized distributions of JDBC drivers, currently suitable for running in OSGi. 
-			While the list is currently fairly short, it is expected to grow as the needs of its users grow and resources to implement 
+			The Gemini DB Access project provides modularized distributions of JDBC drivers suitable for running in OSGi. 
+			While the list is currently fairly short, it is expected to grow as the needs of its users grow, and resources to implement 
 			them increase.
 		</p>
 		
@@ -52,7 +52,7 @@
 			<h6>Incubation</h6>
 			<div id="incubation">
 				<a href="/projects/what-is-incubation.php">
-					<img align="center" src="/gemini/web/images/egg-incubation.png" border="0" alt="Incubation" />
+					<img align="center" src="/gemini/images/egg-incubation.png" border="0" alt="Incubation" />
 				</a>
 			</div>
 		</div>		
