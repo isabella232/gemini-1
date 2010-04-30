@@ -27,9 +27,11 @@
 	
 	ob_start();
 ?>
-<a href="/gemini">
-	<img id="content-logo" src="/gemini/images/logo.png"/>
-</a>
+<div id="content-header">
+	<a id="content-logo" href="/gemini">
+		<img src="/gemini/images/logo.png"/>
+	</a>
+</div>
 <div id="bigbuttons">
 	<h3>Primary Links</h3>
 	<ul>
