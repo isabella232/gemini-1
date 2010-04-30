@@ -82,14 +82,14 @@
 		<p>Like everything else at Eclipse, getting started is as easy as downloading and trying it out!</p>
 	</div>
 
-	<div id="feature_more" class="section">
-		<h4>and much more...</h4>
-		<p>The Gemini documentation (coming soon) will give more details about the project.</p>
-		<p>Join the discussion at the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153&">forum</a> to ask questions or find out answers from questions that others have asked.</p>
-		<p>
-			Want to know more?
-			<br><a href="/projects/project_summary.php?projectid=rt.gemini">About Gemini</a></br>
-		</p>
+	<div id="more" class="section">
+		<h4>Find out more</h4>
+		<ul>
+			<li><a href="http://wiki.eclipse.org/Gemini">Gemini Wiki</a></li>
+			<li><a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">Gemini Forum</a></li>  
+			<li><a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">Developer Mailing List</a></li>
+			<li><a href="/projects/project_summary.php?projectid=rt.gemini">Project Summary</a></li>
+		</ul>
 	</div>
 
 </div>
