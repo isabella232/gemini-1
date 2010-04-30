@@ -53,10 +53,10 @@
 
 	<h3>Gemini Subprojects</h3>
 	<ul>
-		<li><a href="http://www.eclipse.org/gemini/web/getting_involved"			>Gemini Web</a></li>
-		<li><a href="http://www.eclipse.org/gemini/blueprint/getting_involved"		>Gemini Blueprint</a></li>
+		<li><a href="http://www.eclipse.org/gemini/web/contribute"					>Gemini Web</a></li>
+		<li><a href="http://www.eclipse.org/gemini/blueprint/contribute"			>Gemini Blueprint</a></li>
 		<li><a href="http://www.eclipse.org/gemini/jpa/getting_involved.php"		>Gemini JPA</a></li>
-		<li><a href="http://www.eclipse.org/gemini/dbaccess/getting_involved"		>Gemini DBAccess</a></li>
+		<li><a href="http://www.eclipse.org/gemini/dbaccess/contribute"				>Gemini DBAccess</a></li>
 		<li><a href="http://www.eclipse.org/gemini/management/getting_involved.php"	>Gemini Management</a></li>
 		<li><a href="http://www.eclipse.org/gemini/naming/getting_involved.php"		>Gemini Naming</a></li>
 	</ul>
