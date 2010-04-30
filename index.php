@@ -112,12 +112,14 @@
 
 	<div class="sideitem">
 		<h6>Gemini Subprojects</h6>
-		<br><a href="http://www.eclipse.org/gemini/web">Gemini Web</a>
-		<br><a href="http://www.eclipse.org/gemini/blueprint">Gemini Blueprint</a>
-		<br><a href="http://www.eclipse.org/gemini/jpa">Gemini JPA</a>
-		<br><a href="http://www.eclipse.org/gemini/dbaccess">Gemini DBAccess</a>
-		<br><a href="http://www.eclipse.org/gemini/management">Gemini Management</a>
-		<br><a href="http://www.eclipse.org/gemini/naming">Gemini Naming</a>
+		<ul>
+			<li><a href="http://www.eclipse.org/gemini/web">Gemini Web</a></ul>
+			<li><a href="http://www.eclipse.org/gemini/blueprint">Gemini Blueprint</a></ul>
+			<li><a href="http://www.eclipse.org/gemini/jpa">Gemini JPA</a></ul>
+			<li><a href="http://www.eclipse.org/gemini/dbaccess">Gemini DBAccess</a></ul>
+			<li><a href="http://www.eclipse.org/gemini/management">Gemini Management</a></ul>
+			<li><a href="http://www.eclipse.org/gemini/naming">Gemini Naming</a></ul>
+		</ul>
 	</div>
 
 	<div class="sideitem" id="headlines">
