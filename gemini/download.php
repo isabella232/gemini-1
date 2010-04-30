@@ -27,6 +27,16 @@
 	
 	ob_start();
 ?>
+<div id="bigbuttons">
+<h3>Primary Links</h3>
+<ul>
+	<li><a id="buttonDownload" 		href="gemini/download.php" 			title="Download">Module Downloads</a></li>
+	<li><a id="buttonDocumentation" href="gemini/documentation.php" 	title="Documentation">Tutorials, Examples, Reference Documentation</a></li>
+	<li><a id="buttonSupport" 		href="gemini/support.php" 			title="Support">Forum</a></li>
+	<li><a id="buttonInvolved" 		href="gemini/getting_involved.php" 	title="Getting Involved">SVN, Workspace Setup, Wiki, Committers</a></li>
+</ul>
+</div>
+
 <div id="midcolumn">
 	<h2>$pageTitle</h2>
 	
