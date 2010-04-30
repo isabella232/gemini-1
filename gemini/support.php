@@ -38,7 +38,7 @@
 </div>
 
 <div id="midcolumn">
-	<h2>$pageTitle</h2>
+	<h2><? echo $pageTitle; ?></h2>
 
 	<p>
 		You can get support for all Gemini subprojects by posting to the 

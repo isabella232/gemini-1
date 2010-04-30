@@ -27,7 +27,6 @@
 	
 	ob_start();
 ?>
-
 <div id="bigbuttons">
 <h3>Primary Links</h3>
 <ul>
@@ -39,22 +38,24 @@
 </div>
 
 <div id="midcolumn">
-<h3>Enterprise Modules Project</h3>
-<h4>Making the world thinner... one module at a time</h4>
-<div id="introText">
-<p/>
-<p class="left">The Enterprise Modules Project (Gemini) is all about modular implementations 
-of Java EE technology. It provides the ability for users to consume individual modules as needed,
-without requiring unnecessary additional runtime pieces.</p>
+	<h2>Enterprise Modules Project</h2>
+	<h4>Making the world thinner... one module at a time</h4>
+	
+	<div id="introText">
+		<p/>
+		<p class="left">The Enterprise Modules Project (Gemini) is all about modular implementations 
+			of Java EE technology. It provides the ability for users to consume individual modules as needed,
+			without requiring unnecessary additional runtime pieces.
+		</p>
+	
+		<p class="right">The modules run on the Equinox OSGi framework and leverage the OSGi bundle model
+			of packaging and lifecycle activation.
+		</p>
+	</div>
 
-<p class="right">The modules run on the Equinox OSGi framework and leverage the OSGi bundle model
-of packaging and lifecycle activation.</p>
-</div>
-
-<div id="screencast">
-<object width="640" height="10"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /></object>
-</div>
-
+	<div id="screencast">
+		<object width="640" height="10"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /></object>
+	</div>
 
 <!-- 
 <div id="screencast">
@@ -92,6 +93,7 @@ of packaging and lifecycle activation.</p>
 </div>
 
 </div>
+
 <div id="rightcolumn">
 
 <div class="sideitem">
