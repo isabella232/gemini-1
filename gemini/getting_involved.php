@@ -38,7 +38,7 @@
 </div>
 
 <div id="midcolumn">
-	<h2>$pageTitle</h2>
+	<h2><? $pageTitle ?></h2>
 
 	<p>
 		You can get involved in Gemini by either being a contributor to a Gemini subproject, or even starting another 
