@@ -27,13 +27,17 @@
 	
 	ob_start();
 ?>
+<div id="logo">
+	<a href="/gemini"></a>
+</div>
+
 <div id="bigbuttons">
 <h3>Primary Links</h3>
 <ul>
-	<li><a id="buttonDownload" 		href="gemini/download.php" 			title="Download">Module Downloads</a></li>
-	<li><a id="buttonDocumentation" href="gemini/documentation.php" 	title="Documentation">Tutorials, Examples, Reference Documentation</a></li>
-	<li><a id="buttonSupport" 		href="gemini/support.php" 			title="Support">Forum</a></li>
-	<li><a id="buttonInvolved" 		href="gemini/getting_involved.php" 	title="Getting Involved">SVN, Workspace Setup, Wiki, Committers</a></li>
+	<li><a id="buttonDownload" 		href="/gemini/gemini/download.php" 			title="Download">Module Downloads</a></li>
+	<li><a id="buttonDocumentation" href="/gemini/gemini/documentation.php" 	title="Documentation">Tutorials, Examples, Reference Documentation</a></li>
+	<li><a id="buttonSupport" 		href="/gemini/gemini/support.php" 			title="Support">Forum</a></li>
+	<li><a id="buttonInvolved" 		href="/gemini/gemini/getting_involved.php" 	title="Getting Involved">SVN, Workspace Setup, Wiki, Committers</a></li>
 </ul>
 </div>
 
@@ -41,19 +45,19 @@
 	<h2>Enterprise Modules Project</h2>
 	<h4>Making the world thinner... one module at a time</h4>
 	
-	<div id="introText" class="section">
-		<p/>
-		<p class="left">The Enterprise Modules Project (Gemini) is all about modular implementations 
+	<div class="section">
+		<p class="left">
+			The Enterprise Modules Project (Gemini) is all about modular implementations 
 			of Java EE technology. It provides the ability for users to consume individual modules as needed,
 			without requiring unnecessary additional runtime pieces.
 		</p>
-	
-		<p class="right">The modules run on the Equinox OSGi framework and leverage the OSGi bundle model
+		<p class="right">
+			The modules run on the Equinox OSGi framework and leverage the OSGi bundle model
 			of packaging and lifecycle activation.
 		</p>
 	</div>
 
-	<div id="screencast">
+	<div class="section" id="screencast">
 		<object width="640" height="10"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /></object>
 	</div>
 
