@@ -41,7 +41,7 @@
 	<h2>Enterprise Modules Project</h2>
 	<h4>Making the world thinner... one module at a time</h4>
 	
-	<div id="introText">
+	<div id="introText" class="section">
 		<p/>
 		<p class="left">The Enterprise Modules Project (Gemini) is all about modular implementations 
 			of Java EE technology. It provides the ability for users to consume individual modules as needed,
@@ -66,31 +66,31 @@
 <!-- 
 <h3>...and yet powerful</h3>
 -->
-
  
-<div id="modularity">
-<h4>Modularity</h4>
-<p>Each of the subprojects is packaged as a separate and standalone module.</p>
-</div>
+	<div id="modularity" class="section">
+		<h4>Modularity</h4>
+		<p>Each of the sub-projects is packaged as a separate and standalone module.</p>
+	</div>
 
-<div id="independence">
-<h4>Independence</h4>
-<p>Most of the subproject modules are downloadable and executable independently from the others.</p>
-</div>
+	<div id="independence" class="section">
+		<h4>Independence</h4>
+		<p>Most of the subproject modules are downloadable and executable independently from the others.</p>
+	</div>
 
-<div id="free">
-<h4>Free and Easy</h4>
-<p>Like everything else at Eclipse, getting started is as easy as downloading and trying it out!</p>
-</div>
+	<div id="free" class="section">
+		<h4>Free and Easy</h4>
+		<p>Like everything else at Eclipse, getting started is as easy as downloading and trying it out!</p>
+	</div>
 
-<div id="feature_more">
-<h4>and much more...</h4>
-<p>The Gemini documentation (coming soon) will give more details about the project.</p>
-<p>Join the discussion at the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153&">forum</a> to ask questions or find out answers from questions that others have asked.</p>
-<p>Want to know more?
-<br><a href="/projects/project_summary.php?projectid=rt.gemini">About Gemini</a></br>
-</p>
-</div>
+	<div id="feature_more" class="section">
+		<h4>and much more...</h4>
+		<p>The Gemini documentation (coming soon) will give more details about the project.</p>
+		<p>Join the discussion at the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153&">forum</a> to ask questions or find out answers from questions that others have asked.</p>
+		<p>
+			Want to know more?
+			<br><a href="/projects/project_summary.php?projectid=rt.gemini">About Gemini</a></br>
+		</p>
+	</div>
 
 </div>
 
@@ -107,39 +107,39 @@
 
 	<div>
 	<h3>Current Status</h3>
-<p>We are currently going through the initialization and legal phases of getting the code into Eclipse.</p>
-</div>
+		<p>We are currently going through the initialization and legal phases of getting the code into Eclipse.</p>
+	</div>
 
-<div id="newAndNoteworthy">
-<h3>New and Noteworthy</h3>
-<p>Stay tuned for Gemini announcements coming soon!</p>
-</div>
+	<div id="newAndNoteworthy">
+		<h3>New and Noteworthy</h3>
+		<p>Stay tuned for Gemini announcements coming soon!</p>
+	</div>
 
-<div id="subprojects">
-<h3>Gemini Subprojects</h3>
-<br><a href="http://www.eclipse.org/gemini/web">Gemini Web</a>
-<br><a href="http://www.eclipse.org/gemini/blueprint">Gemini Blueprint</a>
-<br><a href="http://www.eclipse.org/gemini/jpa">Gemini JPA</a>
-<br><a href="http://www.eclipse.org/gemini/dbaccess">Gemini DBAccess</a>
-<br><a href="http://www.eclipse.org/gemini/management">Gemini Management</a>
-<br><a href="http://www.eclipse.org/gemini/naming">Gemini Naming</a>
-</div>
+	<div id="subprojects">
+		<h3>Gemini Subprojects</h3>
+		<br><a href="http://www.eclipse.org/gemini/web">Gemini Web</a>
+		<br><a href="http://www.eclipse.org/gemini/blueprint">Gemini Blueprint</a>
+		<br><a href="http://www.eclipse.org/gemini/jpa">Gemini JPA</a>
+		<br><a href="http://www.eclipse.org/gemini/dbaccess">Gemini DBAccess</a>
+		<br><a href="http://www.eclipse.org/gemini/management">Gemini Management</a>
+		<br><a href="http://www.eclipse.org/gemini/naming">Gemini Naming</a>
+	</div>
 
-<div id="headlines">
-<h3>Headlines on the web</h3>
-<p><a href="http://www.devsource.com/c/a/Architecture/Oracle-SpringSource-Launch-OSGiBased-Eclipse-Project/">eWeek article on project Launch</a><br>Nov 25 2009</p>
-<p><a href="http://www.eclipsecon.org/2010/sessions/sessions?id=1125">Gemini at EclipseCon</a><br>Mar 23 2010</p>
-<p><a href="http://www.h-online.com/open/news/item/EclipseCon-2010-Virgo-and-Gemini-to-be-accepted-into-EclipseRT-962224.html">The H article on Gemini joining Eclipse RT</a><br>Mar 24 2010</p>
-<p><a href="http://campustechnology.com/articles/2010/03/25/eclipse-foundation-approves-gemini-virgo-projects.aspx">Campus technology article on Gemini project approval</a><br>Mar 25 2010</p>
-</div>
+	<div id="headlines">
+		<h3>Headlines on the web</h3>
+		<p><a href="http://www.devsource.com/c/a/Architecture/Oracle-SpringSource-Launch-OSGiBased-Eclipse-Project/">eWeek article on project Launch</a><br>Nov 25 2009</p>
+		<p><a href="http://www.eclipsecon.org/2010/sessions/sessions?id=1125">Gemini at EclipseCon</a><br>Mar 23 2010</p>
+		<p><a href="http://www.h-online.com/open/news/item/EclipseCon-2010-Virgo-and-Gemini-to-be-accepted-into-EclipseRT-962224.html">The H article on Gemini joining Eclipse RT</a><br>Mar 24 2010</p>
+		<p><a href="http://campustechnology.com/articles/2010/03/25/eclipse-foundation-approves-gemini-virgo-projects.aspx">Campus technology article on Gemini project approval</a><br>Mar 25 2010</p>
+	</div>
 
-<div id="centreimage">
-<object width="640" height="480">
-<a href="http://www.eclipse.org/gemini"> 
-   <img src="/gemini/images/geminiConstellation.png" alt="The Sign"/> 
-</a>
-</object>
-</div>
+	<div id="centreimage">
+		<object width="640" height="480">
+			<a href="http://www.eclipse.org/gemini"> 
+			   <img src="/gemini/images/geminiConstellation.png" alt="The Sign"/> 
+			</a>
+		</object>
+	</div>
 
 </div>
 
