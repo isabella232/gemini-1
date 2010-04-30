@@ -28,7 +28,7 @@
 	ob_start();
 ?>
 <div>
-	<a id="content-logo" href="/gemini"></a>
+	<a id="content-logo" href="/gemini"><p></p></a>
 </div>
 
 <div id="bigbuttons">
