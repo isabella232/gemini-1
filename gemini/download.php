@@ -28,7 +28,7 @@
 	ob_start();
 ?>
 <a href="/gemini">
-	<div id="content-logo"></div>
+	<img id="content-logo" src="/gemini/images/logo.png"/>
 </a>
 <div id="bigbuttons">
 	<h3>Primary Links</h3>
