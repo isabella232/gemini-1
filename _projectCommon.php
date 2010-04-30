@@ -7,14 +7,13 @@
  * which accompanies this distribution, and is available at
  * http://www.eclipse.org/legal/epl-v10.html
  *
- * Contributors:
+ * Contributors: frostc
  *    
  *******************************************************************************/
 
 	# Set the theme for your project's web pages.
 	# See http://eclipse.org/phoenix/
 	$theme = "Nova";
-	
 
 	# Define your project-wide Navigation here
 	# This appears on the left of the page if you define a left nav
@@ -25,16 +24,16 @@
 	# $Nav->setLinkList(array());
 	
 	# Break the navigation into sections
-	$Nav->addNavSeparator("Gemini", 	"/gemini");
-	$Nav->addCustomNav("Download", "/gemini/download.php", "_self", 3);
-	$Nav->addCustomNav("Documentation", "/gemini/documentation.php", "_blank", 3);
-	$Nav->addCustomNav("Support", "/gemini/support.php", "_blank", 3);
-	$Nav->addCustomNav("Getting Involved", "/gemini/getting_involved.php", "_blank", 3);
+	$Nav->addNavSeparator("Gemini", 		"/gemini");
+	$Nav->addCustomNav("Download", 			"/gemini/gemini/download.php", 			"_self", 3);
+	$Nav->addCustomNav("Documentation", 	"/gemini/gemini/documentation.php", 	"_self", 3);
+	$Nav->addCustomNav("Support", 			"/gemini/gemini/support.php", 			"_self", 3);
+	$Nav->addCustomNav("Getting Involved", 	"/gemini/gemini/getting_involved.php", 	"_self", 3);
 
 	# Define keywords, author and title here, or in each PHP page specifically
-	$pageKeywords	= "javaee, osgi, enterprise, module, gemini";
-	$pageAuthor		= "Mike Keith";
-	$pageTitle 		= "Gemini";
+	# $pageKeywords		= "javaee, osgi, enterprise, module, gemini";
+	# $pageAuthor		= "Mike Keith";
+	# $pageTitle 		= "Gemini";
 
 
 	# top navigation bar
@@ -47,7 +46,7 @@
 	# $Menu->addMenuItem("Developers", "/project/developers", "_self");
 	
 	# To define additional CSS or other pre-body headers
-	# $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/default/style.css"/>');
+	$App->AddExtraHtmlHeader('<link media="screen" rel="stylesheet" type="text/css" href="/gemini/styles/style.css"/>');
 	
 	# To enable occasional Eclipse Foundation Promotion banners on your pages (EclipseCon, etc)
 	$App->Promotion = TRUE;
