@@ -47,12 +47,14 @@
 	</p>
 
 	<h3>Gemini Subprojects</h3>
-	<br><a href="http://www.eclipse.org/gemini/web/getting_involved"		>Gemini Web</a>
-	<br><a href="http://www.eclipse.org/gemini/blueprint/getting_involved"	>Gemini Blueprint</a>
-	<br><a href="http://www.eclipse.org/gemini/jpa/getting_involved"		>Gemini JPA</a>
-	<br><a href="http://www.eclipse.org/gemini/dbaccess/getting_involved"	>Gemini DBAccess</a>
-	<br><a href="http://www.eclipse.org/gemini/management/getting_involved"	>Gemini Management</a>
-	<br><a href="http://www.eclipse.org/gemini/naming/getting_involved"		>Gemini Naming</a>
+	<ul>
+		<li><a href="http://www.eclipse.org/gemini/web/getting_involved"		>Gemini Web</a></li>
+		<li><a href="http://www.eclipse.org/gemini/blueprint/getting_involved"	>Gemini Blueprint</a></li>
+		<li><a href="http://www.eclipse.org/gemini/jpa/getting_involved"		>Gemini JPA</a></li>
+		<li><a href="http://www.eclipse.org/gemini/dbaccess/getting_involved"	>Gemini DBAccess</a></li>
+		<li><a href="http://www.eclipse.org/gemini/management/getting_involved"	>Gemini Management</a></li>
+		<li><a href="http://www.eclipse.org/gemini/naming/getting_involved"		>Gemini Naming</a></li>
+	</ul>
 </div>
 <?
 	$html = ob_get_clean();

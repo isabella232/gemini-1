@@ -46,12 +46,14 @@
 	</p>
 
 	<h3>Gemini Subprojects</h3>
-	<br><a href="http://www.eclipse.org/gemini/web/download"		>Gemini Web</a>
-	<br><a href="http://www.eclipse.org/gemini/blueprint/download"	>Gemini Blueprint</a>
-	<br><a href="http://www.eclipse.org/gemini/jpa/download"		>Gemini JPA</a>
-	<br><a href="http://www.eclipse.org/gemini/dbaccess/download"	>Gemini DBAccess</a>
-	<br><a href="http://www.eclipse.org/gemini/management/download"	>Gemini Management</a>
-	<br><a href="http://www.eclipse.org/gemini/naming/download"		>Gemini Naming</a>
+	<ul>
+		<li><a href="http://www.eclipse.org/gemini/web/download"		>Gemini Web</a></li>
+		<li><a href="http://www.eclipse.org/gemini/blueprint/download"	>Gemini Blueprint</a></li>
+		<li><a href="http://www.eclipse.org/gemini/jpa/download"		>Gemini JPA</a></li>
+		<li><a href="http://www.eclipse.org/gemini/dbaccess/download"	>Gemini DBAccess</a></li>
+		<li><a href="http://www.eclipse.org/gemini/management/download"	>Gemini Management</a></li>
+		<li><a href="http://www.eclipse.org/gemini/naming/download"		>Gemini Naming</a></li>
+	</ul>
 
 </div>
 

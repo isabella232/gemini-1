@@ -41,16 +41,18 @@
 	<h2><? echo $pageTitle; ?></h2>
 
 	<p>
-		Documentation is avaliable for each of the Gemini sub-projects.
+		Documentation is available for each of the Gemini sub-projects.
 	</p>
 
 	<h3>Gemini Subprojects</h3>
-	<br><a href="http://www.eclipse.org/gemini/web/documentation"		>Gemini Web</a>
-	<br><a href="http://www.eclipse.org/gemini/blueprint/documentation"	>Gemini Blueprint</a>
-	<br><a href="http://www.eclipse.org/gemini/jpa/documentation"		>Gemini JPA</a>
-	<br><a href="http://www.eclipse.org/gemini/dbaccess/documentation"	>Gemini DBAccess</a>
-	<br><a href="http://www.eclipse.org/gemini/management/documentation">Gemini Management</a>
-	<br><a href="http://www.eclipse.org/gemini/naming/documentation"	>Gemini Naming</a>
+	<ul>
+		<li><a href="http://www.eclipse.org/gemini/web/documentation"		>Gemini Web</a></li>
+		<li><a href="http://www.eclipse.org/gemini/blueprint/documentation"	>Gemini Blueprint</a></li>
+		<li><a href="http://www.eclipse.org/gemini/jpa/documentation"		>Gemini JPA</a></li>
+		<li><a href="http://www.eclipse.org/gemini/dbaccess/documentation"	>Gemini DBAccess</a></li>
+		<li><a href="http://www.eclipse.org/gemini/management/documentation">Gemini Management</a></li>
+		<li><a href="http://www.eclipse.org/gemini/naming/documentation"	>Gemini Naming</a></li>
+	</ul>
 
 </div>
 <?
