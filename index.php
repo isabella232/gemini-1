@@ -96,15 +96,17 @@
 
 <div id="rightcolumn">
 
-<div class="sideitem">
-   <h6>Incubation</h6>
-   <div align="center"><a href="/projects/what-is-incubation.php"><img 
-        align="center" src="/images/egg-incubation.png" 
-        border="0" alt="Incubation" /></a></div>
- </div>
+	<div class="sideitem">
+		<h6>Incubation</h6>
+		<div id="incubation" align="center">
+	   		<a href="/projects/what-is-incubation.php">
+	   			<img align="center" src="/images/egg-incubation.png" border="0" alt="Incubation" />
+	   		</a>
+	   	</div>
+	</div>
 
-<div>
-<h3>Current Status</h3>
+	<div>
+	<h3>Current Status</h3>
 <p>We are currently going through the initialization and legal phases of getting the code into Eclipse.</p>
 </div>
 

@@ -23,17 +23,17 @@
 	# Define these here, or in _projectCommon.php for site-wide values
 	$pageKeywords	= "eclipse, project, gemini, modules, osgi, enterprise";
 	$pageAuthor		= "Mike Keith";
-	$pageTitle 		= "Gemini Home";
+	$pageTitle 		= "Gemini - Documentation";
 	
 	ob_start();
 ?>
 <div id="bigbuttons">
 <h3>Primary Links</h3>
 <ul>
-	<li><a id="buttonDownload" 		href="gemini/download.php" 			title="Download">Module Downloads</a></li>
-	<li><a id="buttonDocumentation" href="gemini/documentation.php" 	title="Documentation">Tutorials, Examples, Reference Documentation</a></li>
-	<li><a id="buttonSupport" 		href="gemini/support.php" 			title="Support">Forum</a></li>
-	<li><a id="buttonInvolved" 		href="gemini/getting_involved.php" 	title="Getting Involved">SVN, Workspace Setup, Wiki, Committers</a></li>
+	<li><a id="buttonDownload" 		href="/gemini/gemini/download.php" 			title="Download">Module Downloads</a></li>
+	<li><a id="buttonDocumentation" href="/gemini/gemini/documentation.php" 	title="Documentation">Tutorials, Examples, Reference Documentation</a></li>
+	<li><a id="buttonSupport" 		href="/gemini/gemini/support.php" 			title="Support">Forum</a></li>
+	<li><a id="buttonInvolved" 		href="/gemini/gemini/getting_involved.php" 	title="Getting Involved">SVN, Workspace Setup, Wiki, Committers</a></li>
 </ul>
 </div>
 
