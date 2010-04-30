@@ -97,22 +97,17 @@
 <div id="rightcolumn">
 
 	<div class="sideitem">
+		<h6>Current Status</h6>
+		<p>We are currently going through the initialisation and legal phases of getting the code into Eclipse.</p>
+	</div>
+	
+	<div class="sideitem">
 		<h6>Incubation</h6>
 		<div id="incubation" align="center">
 	   		<a href="/projects/what-is-incubation.php">
 	   			<img align="center" src="/images/egg-incubation.png" border="0" alt="Incubation" />
 	   		</a>
 	   	</div>
-	</div>
-
-	<div>
-	<h3>Current Status</h3>
-		<p>We are currently going through the initialization and legal phases of getting the code into Eclipse.</p>
-	</div>
-
-	<div id="newAndNoteworthy">
-		<h3>New and Noteworthy</h3>
-		<p>Stay tuned for Gemini announcements coming soon!</p>
 	</div>
 
 	<div id="subprojects">
@@ -133,13 +128,13 @@
 		<p><a href="http://campustechnology.com/articles/2010/03/25/eclipse-foundation-approves-gemini-virgo-projects.aspx">Campus technology article on Gemini project approval</a><br>Mar 25 2010</p>
 	</div>
 
-	<div id="centreimage">
+	<!--<div id="centreimage">
 		<object width="640" height="480">
 			<a href="http://www.eclipse.org/gemini"> 
 			   <img src="/gemini/images/geminiConstellation.png" alt="The Sign"/> 
 			</a>
 		</object>
-	</div>
+	</div>-->
 
 </div>
 
