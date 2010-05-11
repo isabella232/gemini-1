@@ -43,7 +43,7 @@
 </div>
 
 <div id="midcolumn">
-	<h2>Enterprise Modules Project</h2>
+	<h2>Gemini - Enterprise Modules Project</h2>
 	<h4>Making the world thinner... one module at a time</h4>
 	
 	<div class="section">
