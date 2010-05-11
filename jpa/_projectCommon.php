@@ -25,14 +25,16 @@
 	# $Nav->setLinkList(array());
 	
 	# Break the navigation into sections
-	$Nav->addNavSeparator("Gemini JPA", 	"/gemini/jpa");
-	$Nav->addCustomNav("Download", "/gemini/jpa/download.php", "_self", 3);
-	$Nav->addCustomNav("Documentation", "/gemini/jpa/documentation.php", "_blank", 3);
-	$Nav->addCustomNav("Support", "/gemini/jpa/support.php", "_blank", 3);
-	$Nav->addCustomNav("Getting Involved", "/gemini/jpa/getting_involved.php", "_blank", 3);
+	$Nav->addNavSeparator("Gemini Home",    "/gemini");
+	$Nav->addCustomNav("Gemini JPA Home",   "/gemini/jpa");
+	$Nav->addCustomNav("Download",          "/gemini/jpa/download",         "_self", 3);
+	$Nav->addCustomNav("Documentation",     "/gemini/jpa/documentation",    "_self", 3);
+	$Nav->addCustomNav("Support",           "/gemini/jpa/support",          "_self", 3);
+	$Nav->addCustomNav("Getting Involved",  "/gemini/jpa/contribute",       "_self", 3);
+	$Nav->addCustomNav("About Gemini JPA",  "/gemini/jpa/about",    		"_self", 3);
 
 	# Define keywords, author and title here, or in each PHP page specifically
-	$pageKeywords	= "javaee, osgi, enterprise, module, gemini";
+	$pageKeywords	= "javaee, osgi, enterprise, module, gemini, jpa";
 	$pageAuthor		= "Mike Keith";
 	$pageTitle 		= "Gemini JPA";
 
@@ -48,6 +50,7 @@
 	
 	# To define additional CSS or other pre-body headers
 	# $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/default/style.css"/>');
+	$App->AddExtraHtmlHeader('<link media="screen" rel="stylesheet" type="text/css" href="/gemini/jpa/resources/local.css"/>');
 	
 	# To enable occasional Eclipse Foundation Promotion banners on your pages (EclipseCon, etc)
 	$App->Promotion = TRUE;
