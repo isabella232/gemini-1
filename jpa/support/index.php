@@ -28,7 +28,7 @@
 ?>
 	
 	<div id="midcolumn">
-		<h2>$pageTitle</h2>
+		<h2>Gemini JPA - Support</h2>
 		<p>
 			You can get support for Gemini JPA by posting to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">Gemini forum</a>. Please be sure to indicate the exact nature of your question or problem, including any stack traces or additional information.
 		</p>

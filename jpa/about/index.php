@@ -28,7 +28,7 @@
 ?>
 	
 	<div id="midcolumn">
-		<h2>$pageTitle</h2>
+		<h2>About Gemini JPA</h2>
 		<p>
 			The Gemini JPA project provides the ability to leverage JPA persistence in a modular environment. 
 			The Gemini JPA project is the continuation of the Reference Implementation for the JPA chapter of the OSGi Alliance Enterprise Specification, and wraps EclipseLink to offer an OSGi Enterprise Specification compliant JPA provider. A Gemini DB Access module can be used by the provider to read and write through the JDBC driver.

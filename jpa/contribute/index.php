@@ -28,7 +28,7 @@
 ?>
 	
 	<div id="midcolumn">
-		<h2>$pageTitle</h2>
+		<h2>Gemini JPA - Getting Involved</h2>
 		<p>
 			Download Gemini JPA and try it out. Read the docs. Check out the code. Then tweet, blog, or post to the 
 			<a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev"> developer mailing list</a>. 
