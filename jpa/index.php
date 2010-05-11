@@ -55,7 +55,15 @@
 					<img align="center" src="/gemini/jpa/images/egg-incubation.png" border="0" alt="Incubation" />
 				</a>
 			</div>
-		</div>		
+		</div>	
+		<div class="sideitem">
+			<h6>Current Status</h6>
+			<p>The build process and project organization is currently being resolved.</p>
+		</div>
+		<div id="sideitem">
+			<h6>New and Noteworthy</h6>
+			<p>Gemini JPA code is now checked into the repository!</p>
+		</div>
 		<!-- div class="sideitem">
 			<h6>&lt;h6&gt; tag</h6>
 				<div class="modal">
@@ -63,8 +71,6 @@
 				</div>
 		</div -->
 	</div>
-
-	
 <?
 	$html = ob_get_clean();
 
