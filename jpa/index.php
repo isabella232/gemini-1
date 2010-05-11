@@ -33,6 +33,31 @@
 			of Java Persistence API technology. This project currently provides a JPA provider that follows the
 			OSGi JPA specification approach and that clients can use to get JPA support in an OSGi framework.
 		</p>
+		<p>
+			The modules run on the Equinox OSGi framework and leverage the OSGi bundle model
+			of packaging and life cycle activation. They integrate and expose the EclipseLink JPA provider as OSGi services.
+		</p>
+
+		<h3>Modularity</h4>
+		<p>
+			The Gemini JPA project is packaged as a small number of separate and standalone modules.
+		</p>
+		<h4>Independence</h4>
+		<p>
+			The Gemini JPA subproject is downloadable and executable independently from the other Gemini subprojects.
+		</p>
+		<h4>and much more...</h4>
+		<p>
+			The Gemini documentation (coming soon) will give more details about the project.
+		</p>
+		<p>
+			Join the discussion at the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153&">forum</a> to 
+			ask questions or find out answers from questions that others have asked.
+		</p>
+		<p>
+			Want to know more?
+		</p>
+		<br><a href="/projects/project_summary.php?projectid=rt.gemini.jpa">About Gemini JPA</a></br>
 		
 	</div>
 
@@ -60,7 +85,7 @@
 			<h6>Current Status</h6>
 			<p>The build process and project organization is currently being resolved.</p>
 		</div>
-		<div id="sideitem">
+		<div class="sideitem">
 			<h6>New and Noteworthy</h6>
 			<p>Gemini JPA code is now checked into the repository!</p>
 		</div>
