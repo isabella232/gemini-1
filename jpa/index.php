@@ -38,26 +38,21 @@
 			of packaging and life cycle activation. They integrate and expose the EclipseLink JPA provider as OSGi services.
 		</p>
 
-		<h3>Modularity</h4>
+		<h4>Modularity</h4>
 		<p>
-			The Gemini JPA project is packaged as a small number of separate and standalone modules.
+			The Gemini JPA project is packaged as a small number of separate and standalone modules. 
 		</p>
 		<h4>Independence</h4>
 		<p>
 			The Gemini JPA subproject is downloadable and executable independently from the other Gemini subprojects.
 		</p>
-		<h4>and much more...</h4>
-		<p>
-			The Gemini documentation (coming soon) will give more details about the project.
-		</p>
 		<p>
 			Join the discussion at the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153&">forum</a> to 
-			ask questions or find out answers from questions that others have asked.
+			ask questions or find answers from questions that others have asked.
 		</p>
 		<p>
-			Want to know more?
+			<a href="/projects/project_summary.php?projectid=rt.gemini.jpa">About Gemini JPA</a>
 		</p>
-		<br><a href="/projects/project_summary.php?projectid=rt.gemini.jpa">About Gemini JPA</a></br>
 		
 	</div>
 
