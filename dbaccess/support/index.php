@@ -20,15 +20,15 @@
  *******************************************************************************/
 
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Gemini DB Access - Support";
-	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, Support";
+	$pageTitle 		= "Gemini DBAccess - Support";
+	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, DBAccess, Support";
 	$pageAuthor		= "Mike Keith";
 		
 	ob_start();
 ?>
 	
 	<div id="midcolumn">
-		<h2>Gemini DB Access Support</h2>
+		<h2>Gemini DBAccess Support</h2>
 		<p>
 			If you encounter any problems or issues with existing DB Access components please post to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153&">Gemini forum</a>.
 		</p>

@@ -20,15 +20,15 @@
  *******************************************************************************/
 
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Gemini DB Access - Documentation";
-	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, Documentation";
+	$pageTitle 		= "Gemini DBAccess - Documentation";
+	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, DBAccess, Documentation";
 	$pageAuthor		= "Mike Keith";
 		
 	ob_start();
 ?>
 	
 	<div id="midcolumn">
-		<h2>Gemini DB Access Documentation</h2>
+		<h2>Gemini DBAccess Documentation</h2>
 		<p>
 		The documentation has not been created yet for this project. If you would like to volunteer to write, or assist in 
 		writing them, please send an email to the <a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">developer mailing list</a> or post to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">forum</a>.

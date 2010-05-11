@@ -20,14 +20,14 @@
  *******************************************************************************/
 
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Gemini DB Access - Home";
-	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, Home";
+	$pageTitle 		= "Gemini DBAccess - Home";
+	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, DBAccess, Home";
 	$pageAuthor		= "Mike Keith";
 			
 	ob_start();
 ?>
 	<div id="midcolumn">
-		<div class="logo"><h1>Gemini DB Access</h1></div>
+		<div class="logo"><h1>Gemini DBAccess</h1></div>
 		<p>
 			The Gemini DB Access project provides modularized distributions of JDBC drivers suitable for running in OSGi. 
 			While the list is currently fairly short, it is expected to grow as the needs of its users grow, and resources to implement 

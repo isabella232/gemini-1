@@ -20,15 +20,15 @@
  *******************************************************************************/
 
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Gemini DB Access - Downloads";
-	$pageKeywords	= "Eclipse, EclipseRT, OSGi, Downloads";
+	$pageTitle 		= "Gemini DBAccess - Downloads";
+	$pageKeywords	= "Eclipse, EclipseRT, OSGi, DBAccess, Downloads";
 	$pageAuthor		= "Mike Keith";
 		
 	ob_start();
 ?>
 	
 	<div id="midcolumn">
-		<h2>Gemini DB Access Downloads</h2>
+		<h2>Gemini DBAccess Downloads</h2>
 		<p>
 			All downloads are provided under the terms and conditions of the 
 			<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.
