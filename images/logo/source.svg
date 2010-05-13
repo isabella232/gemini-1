@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="source.svg"
+   inkscape:export-filename="/Users/chrisfrost/Repos/GIT/cfrost/RTLogoWork/Gemini Logos/logoFinal/full.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3663">
+      <stop
+         style="stop-color:#002e62;stop-opacity:1;"
+         offset="0"
+         id="stop3665" />
+      <stop
+         id="stop3671"
+         offset="0.5"
+         style="stop-color:#0093cf;stop-opacity:1;" />
+      <stop
+         style="stop-color:#002e62;stop-opacity:1;"
+         offset="1"
+         id="stop3667" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3663"
+       id="linearGradient3775"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.3331659,0,0,3.3333341,-41.649637,-1988.8544)"
+       x1="42.5"
+       y1="702.36224"
+       x2="192.49997"
+       y2="852.36218" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="216.82967"
+     inkscape:cy="393.87955"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1571"
+     inkscape:window-height="1076"
+     inkscape:window-x="2139"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <path
+       style="fill:url(#linearGradient3775);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 152.2091,352.36218 c -28.92385,0 -52.2091,22.3 -52.2091,50 l 0,52.09375 c 4.76915,-1.36597 9.79747,-2.09375 15.04275,-2.09375 l 41.08203,0 c 28.92384,0 52.20909,22.3 52.20909,50 l 0,200 c 0,27.7 -23.28525,50 -52.20909,50 l -41.08203,0 c -5.24592,0 -10.27309,-0.75871 -15.04275,-2.125 l 0,52.125 c 0,27.7 23.28525,50 52.2091,50 l 395.5818,0 c 28.92385,0 52.2091,-22.3 52.2091,-50 l 0,-52.125 c -4.76966,1.36629 -9.82947,2.125 -15.07537,2.125 l -41.04941,0 c -28.92384,0 -52.20909,-22.3 -52.20909,-50 l 0,-200 c 0,-27.7 23.28525,-50 52.20909,-50 l 41.04941,0 c 5.24527,0 10.30622,0.72778 15.07537,2.09375 l 0,-52.09375 c 0,-27.7 -23.28525,-50 -52.2091,-50 l -395.5818,0 z m 166.67754,100 62.22672,0 c 28.92385,0 52.2091,22.3 52.2091,50 l 0,200 c 0,27.7 -23.28525,50 -52.2091,50 l -62.22672,0 c -28.92384,0 -52.2091,-22.3 -52.2091,-50 l 0,-200 c 0,-27.7 23.28526,-50 52.2091,-50 z"
+       id="rect2818"
+       inkscape:export-filename="/Users/chrisfrost/Repos/GIT/cfrost/RTLogoWork/Gemini Logos/logoFinal/logo-24.png"
+       inkscape:export-xdpi="4.3200002"
+       inkscape:export-ydpi="4.3200002" />
+    <text
+       xml:space="preserve"
+       style="font-size:135.93157959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#002e62;fill-opacity:1;stroke:none;font-family:D3 Roadsterism;-inkscape-font-specification:D3 Roadsterism"
+       x="97.488464"
+       y="997.41254"
+       id="text3637"
+       sodipodi:linespacing="100%"
+       transform="scale(1.0257624,0.97488465)"><tspan
+         sodipodi:role="line"
+         id="tspan3639"
+         x="97.488464"
+         y="997.41254">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:108.65085602px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#002e62;fill-opacity:1;stroke:none;font-family:D3 Roadsterism;-inkscape-font-specification:D3 Roadsterism"
+       x="200.29108"
+       y="1012.4258"
+       id="text2879"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0694313,0.93507645)"><tspan
+         sodipodi:role="line"
+         id="tspan2881"
+         x="200.29108"
+         y="1012.4258">emini</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2883"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:40px"><flowRegion
+         id="flowRegion2885"><rect
+           id="rect2887"
+           width="150"
+           height="130"
+           x="-152.85715"
+           y="129.80876" /></flowRegion><flowPara
+         id="flowPara2889" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:26.45038033px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#002e62;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+       x="183.48361"
+       y="1125.8845"
+       id="text3673"
+       transform="scale(1.1635443,0.85944298)"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3675"
+         x="183.48361"
+         y="1125.8845">from eclipse</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30.51925087px;font-style:normal;font-weight:normal;line-height:125%;fill:#0093cf;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="397.26471"
+       y="983.35223"
+       id="text3677"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0113025,0.98882379)"><tspan
+         sodipodi:role="line"
+         id="tspan3679"
+         x="397.26471"
+         y="983.35223"
+         style="font-size:30.51925087px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#0093cf;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">RT</tspan></text>
+  </g>
+</svg>
