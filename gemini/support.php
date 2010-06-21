@@ -46,21 +46,17 @@
 	<h2><? echo $pageTitle; ?></h2>
 
 	<p>
+		You can report Gemini bugs in  
+		<a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Gemini">
+		Bugzilla</a> for any of the Gemini components. 
+	</p>
+
+	<p>
 		You can get support for all Gemini subprojects by posting to the 
 		<a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">
 		Gemini forum</a>. Please be sure to indicate the exact nature of your 
 		question or problem, including any stack traces or additional information.
 	</p>
-
-	<h3>Gemini Subprojects</h3>
-	<ul>
-		<li><a href="http://www.eclipse.org/gemini/web/support"				>Gemini Web</a></li>
-		<li><a href="http://www.eclipse.org/gemini/blueprint/support"		>Gemini Blueprint</a></li>
-		<li><a href="http://www.eclipse.org/gemini/jpa/support.php"			>Gemini JPA</a></li>
-		<li><a href="http://www.eclipse.org/gemini/dbaccess/support"		>Gemini DBAccess</a></li>
-		<li><a href="http://www.eclipse.org/gemini/management/support.php"	>Gemini Management</a></li>
-		<li><a href="http://www.eclipse.org/gemini/naming/support.php"		>Gemini Naming</a></li>
-	</ul>
 
 </div>
 <?
