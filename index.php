@@ -129,10 +129,10 @@
 
 	<div class="sideitem" id="headlines">
 		<h6>Headlines on the web</h6>
-		<p><a href="http://www.devsource.com/c/a/Architecture/Oracle-SpringSource-Launch-OSGiBased-Eclipse-Project/">eWeek article on project Launch</a><br>Nov 25 2009</p>
-		<p><a href="http://www.eclipsecon.org/2010/sessions/sessions?id=1125">Gemini at EclipseCon</a><br>Mar 23 2010</p>
-		<p><a href="http://www.h-online.com/open/news/item/EclipseCon-2010-Virgo-and-Gemini-to-be-accepted-into-EclipseRT-962224.html">The H article on Gemini joining Eclipse RT</a><br>Mar 24 2010</p>
 		<p><a href="http://campustechnology.com/articles/2010/03/25/eclipse-foundation-approves-gemini-virgo-projects.aspx">Campus technology article on Gemini project approval</a><br>Mar 25 2010</p>
+        <p><a href="http://www.h-online.com/open/news/item/EclipseCon-2010-Virgo-and-Gemini-to-be-accepted-into-EclipseRT-962224.html">The H article on Gemini joining Eclipse RT</a><br>Mar 24 2010</p>
+        <p><a href="http://www.eclipsecon.org/2010/sessions/sessions?id=1125">Gemini at EclipseCon</a><br>Mar 23 2010</p>
+        <p><a href="http://www.devsource.com/c/a/Architecture/Oracle-SpringSource-Launch-OSGiBased-Eclipse-Project/">eWeek article on project Launch</a><br>Nov 25 2009</p>
 	</div>
 
 	<!--<div id="centreimage">
