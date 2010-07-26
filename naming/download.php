@@ -18,7 +18,11 @@
 <h2>$pageTitle</h2>
 <p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
-<h2>No downloads are currently available.</h2>
+<h2>Latest Milestone of Gemini Naming (1.0.0.M01-incubation)</h2>
+ <p>
+     <strong>Gemini Naming </strong> - 
+     <a href="http://www.eclipse.org/downloads/download.php?file=/naming/milestones/gemini-naming-1.0.0.M01-incubation/gemini-naming-1.0.0.M01-incubation.zip">Download</a>
+ </p>
 </div>
 
 
