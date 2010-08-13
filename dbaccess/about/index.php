@@ -30,9 +30,8 @@
 	<div id="midcolumn">
 		<h2>About Gemini DBAccess</h2>
 		<p>
-			The Gemini DB Access project is about providing modularized access to JDBC resources. It exports a DataSourceFactory
-			object so that client applications of the JDBC driver can import and access the features of the driver without having to 
-			package the driver as part of the application. 
+			The Gemini DBAccess project is about providing modularized access to JDBC resources. It exports a DataSourceFactory
+			object so that client applications of the JDBC driver can import and access the features of the driver without having to package the driver as part of the application. 
 		</p>
 	</div>
 

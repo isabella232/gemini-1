@@ -23,7 +23,11 @@
 	$pageTitle 		= "Gemini JPA - Downloads";
 	$pageKeywords	= "Eclipse, EclipseRT, OSGi, JPA, Downloads";
 	$pageAuthor		= "Mike Keith";
-		
+
+	$milestoneM1 = "1.0.0.M1-incubation";
+
+	$latestMilestone = "1.0.0.M1-incubation";
+
 	ob_start();
 ?>
 	
@@ -33,9 +37,13 @@
 			All downloads are provided under the terms and conditions of the 
 			<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.
 		</p>
+        <h2>Latest Milestone of Gemini JPA: <?=$latestMilestone ?></h2>
+		<br/>
 		<p>
-		    No downloads are currently available.
+			<strong>Gemini JPA</strong> -  
+			<a href="http://www.eclipse.org/downloads/download.php?file=/rt/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneM1 ?>.zip" target="_self">Download</a>
 		</p>
+
 	</div>
 
 	<!-- remove the entire <div> tag to omit the right column!  -->
