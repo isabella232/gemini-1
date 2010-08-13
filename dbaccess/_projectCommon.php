@@ -31,7 +31,7 @@
 	$Nav->addCustomNav("Documentation", 	"/gemini/dbaccess/documentation",	"_self", 3);
 	$Nav->addCustomNav("Support", 			"/gemini/dbaccess/support", 		"_self", 3);
 	$Nav->addCustomNav("Getting Involved", 	"/gemini/dbaccess/contribute",		"_self", 3);
-	$Nav->addCustomNav("About DB Access",	"/gemini/dbaccess/about",    		"_self", 3);
+	$Nav->addCustomNav("About DBAccess",	"/gemini/dbaccess/about",    		"_self", 3);
 
 	# Define keywords, author and title here, or in each PHP page specifically
 	# $pageKeywords	= "eclipse, OSGi, gemini";
