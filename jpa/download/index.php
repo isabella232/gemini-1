@@ -41,7 +41,7 @@
 		<br/>
 		<p>
 			<strong>Gemini JPA</strong> -  
-			<a href="http://www.eclipse.org/downloads/download.php?file=/rt/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneM1 ?>.zip" target="_self">Download</a>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneM1 ?>.zip" target="_self">Download</a>
 		</p>
 
 	</div>
