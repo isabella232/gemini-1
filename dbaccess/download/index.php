@@ -41,7 +41,7 @@
 		<br/>
 		<p>
 			<strong>Gemini DBAccess</strong> -  
-			<a href="http://www.eclipse.org/downloads/download.php?file=/rt/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$milestoneM1 ?>.zip" target="_self">Download</a>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$milestoneM1 ?>.zip" target="_self">Download</a>
 		</p>
 
 	</div>
