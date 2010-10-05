@@ -1,0 +1,3 @@
+The Enterprise Modules Project (Gemini) is all about modular implementations 
+of Java EE technology. It provides the ability for users to consume individual modules as needed, 
+without requiring unnecessary additional runtime pieces.
