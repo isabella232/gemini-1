@@ -53,7 +53,7 @@
 			without requiring unnecessary additional runtime pieces.
 		</p>
 		<p class="right">
-			The modules run on the Equinox OSGi framework and leverage the OSGi bundle model
+			The modules currently run on the OSGi framework and leverage the OSGi bundle model
 			of packaging and lifecycle activation.
 		</p>
 	</div>
@@ -103,7 +103,7 @@
 
 	<div class="sideitem">
 		<h6>Current Status</h6>
-		<p>We are currently going through the initialisation and legal phases of getting the code into Eclipse.</p>
+		<p>Most of the Gemini subprojects have milestones available for downloading and are preparing for graduation from incubation.</p>
 	</div>
 	
 	<div class="sideitem">
