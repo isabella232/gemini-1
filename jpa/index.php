@@ -78,7 +78,7 @@
 		</div>	
 		<div class="sideitem">
 			<h6>Current Status</h6>
-			<p>The build process and project organization is currently being resolved.</p>
+			<p>The project is currently in incubation, but is approaching graduation.</p>
 		</div>
 		<div class="sideitem">
 			<h6>New and Noteworthy</h6>
