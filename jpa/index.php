@@ -29,12 +29,12 @@
 	<div id="midcolumn">
 		<div class="logo"><h1>Gemini JPA</h1></div>
 		<p>
-			The Gemini JPA project is about modular implementations 
-			of Java Persistence API technology. This project currently provides a JPA provider that follows the
-			OSGi JPA specification approach and that clients can use to get JPA support in an OSGi framework.
+			The Gemini JPA project is about modular implementations of Java Persistence API technology. 
+			This project currently provides the integration with a JPA provider to support the
+			OSGi JPA specification approach that clients can use to get JPA support in an OSGi framework.
 		</p>
 		<p>
-			The modules run on the Equinox OSGi framework and leverage the OSGi bundle model
+			The modules run on any compliant OSGi framework and leverage the OSGi bundle model
 			of packaging and life cycle activation. They integrate and expose the EclipseLink JPA provider as OSGi services.
 		</p>
 
@@ -82,7 +82,7 @@
 		</div>
 		<div class="sideitem">
 			<h6>New and Noteworthy</h6>
-			<p>Gemini JPA code is now checked into the repository!</p>
+			<p>Gemini JPA milestone M2 is now available!</p>
 		</div>
 		<!-- div class="sideitem">
 			<h6>&lt;h6&gt; tag</h6>

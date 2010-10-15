@@ -25,8 +25,9 @@
 	$pageAuthor		= "Mike Keith";
 
 	$milestoneM1 = "1.0.0.M1-incubation";
+	$milestoneM2 = "1.0.0.M2-incubation";
 
-	$latestMilestone = "1.0.0.M1-incubation";
+	$latestMilestone = "1.0.0.M2-incubation";
 
 	ob_start();
 ?>
@@ -41,7 +42,7 @@
 		<br/>
 		<p>
 			<strong>Gemini JPA</strong> -  
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneM1 ?>.zip" target="_self">Download</a>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$latestMilestone ?>.zip" target="_self">Download</a>
 		</p>
 
 	</div>
