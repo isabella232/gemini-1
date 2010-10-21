@@ -41,8 +41,15 @@
         <h2>Latest Milestone of Gemini JPA: <?=$latestMilestone ?></h2>
 		<br/>
 		<p>
-			<strong>Gemini JPA</strong> -  
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$latestMilestone ?>.zip" target="_self">Download</a>
+		</p>
+        <h2>1.0.0 Milestones of Gemini JPA</h2>
+		<br/>
+		<p>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneM2 ?>.zip" target="_self">1.0.0 Milestone 2</a>
+		</p>
+		<p>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneM1 ?>.zip" target="_self">1.0.0 Milestone 1</a>
 		</p>
 
 	</div>
