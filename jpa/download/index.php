@@ -26,8 +26,9 @@
 
 	$milestoneM1 = "1.0.0.M1-incubation";
 	$milestoneM2 = "1.0.0.M2-incubation";
+	$milestoneM3 = "1.0.0.M3-incubation";
 
-	$latestMilestone = "1.0.0.M2-incubation";
+	$latestMilestone = "1.0.0.M3-incubation";
 
 	ob_start();
 ?>
@@ -45,6 +46,9 @@
 		</p>
         <h2>1.0.0 Milestones of Gemini JPA</h2>
 		<br/>
+		<p>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneM3 ?>.zip" target="_self">1.0.0 Milestone 3</a>
+		</p>
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneM2 ?>.zip" target="_self">1.0.0 Milestone 2</a>
 		</p>
