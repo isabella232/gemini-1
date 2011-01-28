@@ -10,21 +10,11 @@
      <html:div>A set of bundles.</html:div>
    </release_deliverables>
 
-
    <release_milestones>
       <preamble>
          <html:div>Milestones leading to 1.0.0. release</html:div>
       </preamble>
-      <milestone date="30/10/2010" milestone="1.0.0 M2"><html:div>Tentative milestone</html:div></milestone>
-      <milestone date="30/06/2010" milestone="1.0.0 M1"><html:div>Completed</html:div></milestone>
-      <postamble />
-   </release_milestones>
-
-   <release_milestones>
-      <preamble>
-         <html:div>Milestones leading to 1.0.0. release</html:div>
-      </preamble>
-      <milestone date="02/09/2010" milestone="M1"><html:div>Completed<</html:div></milestone>
+      <milestone date="02/09/2010" milestone="M1"><html:div>Completed</html:div></milestone>
       <milestone date="31/03/2011" milestone="M2"><html:div>Tentative</html:div></milestone>
       <milestone date="30/06/2011" milestone="M3"><html:div>Tentative</html:div></milestone>
       <postamble><html:div>The project is expected to graduate from incubation at approximately the same time at the 1.0 release.</html:div></postamble>
