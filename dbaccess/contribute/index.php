@@ -37,8 +37,8 @@
 		</p>
 		
 		<p>
-			All of the source code for this project is maintained in an SVN repository. The locationn of the repository and further information about the project is contained in 
-			the <a href="http://wiki.eclipse.org//projects/project_summary.php?projectid=rt.gemini.dbaccess">project summary</a>.
+			All of the source code for this project is maintained in an SVN repository. The location of the repository and further information about the project can be found in 
+			the <a href="http://eclipse.org/projects/project_summary.php?projectid=rt.gemini.dbaccess">project summary</a>.
 		</p>
 
 	</div>
