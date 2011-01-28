@@ -9,15 +9,17 @@
    <release_deliverables>
      <html:div>A set of bundles.</html:div>
    </release_deliverables>
+
    <release_milestones>
       <preamble>
-         <html:div>A set of milestones will provide the functionality before the actual release.</html:div>
+         <html:div>Milestones leading to 1.0.0. release</html:div>
       </preamble>
-      <milestone date="Sept 02, 2010" milestone="M1"><html:div>optional html</html:div></milestone>
-      <milestone date="March 31, 2011" milestone="M2"><html:div>optional html</html:div></milestone>
-      <milestone date="Jul 31, 2011" milestone="M3"><html:div>optional html</html:div></milestone>
+      <milestone date="02/09/2010" milestone="M1"><html:div>Completed<</html:div></milestone>
+      <milestone date="31/03/2011" milestone="M2"><html:div>Tentative</html:div></milestone>
+      <milestone date="30/06/2011" milestone="M3"><html:div>Tentative</html:div></milestone>
       <postamble><html:div>The project is expected to graduate from incubation at approximately the same time at the 1.0 release.</html:div></postamble>
    </release_milestones>
+
    <target_environments>
      <html:div>Gemini DBAccess 1.0 is targeted to run in any standard OSGi framework environment.</html:div>
      <internationalization>
