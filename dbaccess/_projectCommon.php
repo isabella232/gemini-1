@@ -27,6 +27,8 @@
 	
 	# Break the navigation into sections
 	$Nav->addNavSeparator("Gemini Home", 	"/gemini/");
+	$Nav->addCustomNav("Project Summary", 	"/projects/project_summary.php?projectid=rt.gemini.dbaccess");
+	$Nav->addCustomNav("DBAccess Home", 	"/gemini/dbaccess");	
 	$Nav->addCustomNav("Downloads", 		"/gemini/dbaccess/download", 		"_self", 3);
 	$Nav->addCustomNav("Documentation", 	"/gemini/dbaccess/documentation",	"_self", 3);
 	$Nav->addCustomNav("Support", 			"/gemini/dbaccess/support", 		"_self", 3);

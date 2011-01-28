@@ -30,7 +30,12 @@
 	<div id="midcolumn">
 		<h2>Gemini DBAccess Documentation</h2>
 		<p>
-		The documentation has not been created yet for this project. If you would like to volunteer to write, or assist in 
+		DBAccess implements the JDBC Service Specification Version 1.0 of the OSGi Service Platform Enterprise Specification, Release 4, Version 4.2, section 125. 
+        This specification may be downloaded
+			<a href="http://www.osgi.org/Download/Release4V42">here</a>.		
+		</p>
+		<p>
+		The documentation has not been finished yet for this project. If you would like to volunteer to write, or assist in 
 		writing them, please send an email to the <a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">developer mailing list</a> or post to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">forum</a>.
 		</p>
 

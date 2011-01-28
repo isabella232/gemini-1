@@ -42,10 +42,12 @@
 			<h6>Quick Links</h6>
 			<ul>
 				<li><a href="http://wiki.eclipse.org/Gemini">Gemini Wiki</a></li>
+				<li><a href="http://wiki.eclipse.org/Gemini/DBAccess">Gemini DBAccess Wiki</a></li>
 				<li><a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153&">Gemini Forum</a></li>  
 				<li><a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">Developer Mailing List</a></li>
-				<li><a href="http://www.eclipse.org/projects/project_summary.php?projectid=rt.gemini">Project Summary</a></li>
+				<li><a href="http://www.eclipse.org/projects/project_summary.php?projectid=rt.gemini.dbaccess">Project Summary</a></li>
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;order=Importance;classification=RT;product=Gemini">Gemini Bugzilla</a></li>
+				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;order=Importance;classification=RT;product=Gemini.DBAccess">DBAccess Bugzilla</a></li>
 			</ul>
 		</div>
 		<div class="sideitem">
