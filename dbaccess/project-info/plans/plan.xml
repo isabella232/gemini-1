@@ -9,7 +9,6 @@
    <release_deliverables>
      <html:div>A set of bundles.</html:div>
    </release_deliverables>
-
    <release_milestones>
       <preamble>
          <html:div>Milestones leading to 1.0.0. release</html:div>
@@ -19,7 +18,6 @@
       <milestone date="30/06/2011" milestone="M3"><html:div>Tentative</html:div></milestone>
       <postamble><html:div>The project is expected to graduate from incubation at approximately the same time at the 1.0 release.</html:div></postamble>
    </release_milestones>
-
    <target_environments>
      <html:div>Gemini DBAccess 1.0 is targeted to run in any standard OSGi framework environment.</html:div>
      <internationalization>
