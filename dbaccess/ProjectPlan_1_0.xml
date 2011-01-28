@@ -29,7 +29,7 @@
    </compatibility_with_previous_releases>
    <themes_and_priorities>
      <preamble>
-         <html:div>The following themes and priorities were considered during Gemini JPA development.</html:div>
+         <html:div>The following themes and priorities were considered during Gemini DBAccess development.</html:div>
      </preamble>
      <theme name="OSGi and Java EE development">
         <description>Developers that are using Java EE technologies in an OSGi environment</description>
