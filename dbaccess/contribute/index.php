@@ -16,13 +16,14 @@
  *
  * Contributors: Christopher Frost
  *               Mike Keith
+ *               Juergen Kissner
  *    
  *******************************************************************************/
 
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Gemini DBAccess - Contribute";
 	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, DBAccess, Contribute, Developers, help";
-	$pageAuthor		= "Mike Keith";
+	$pageAuthor		= "Juergen G. Kissner";
 		
 	ob_start();
 ?>
@@ -32,6 +33,7 @@
 		<p>
 			If you have a JDBC driver that you would like to either use or have already implemented as a module then
 			please either subscribe to and send an email to the <a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">developer mailing list</a> or post to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">forum</a>.
+		    For further information, please refer to the  <a href="http://wiki.eclipse.org/Gemini/DBAccess/CommitterGuide">committer guide</a> of the DBAccess wiki.
 		</p>
 		
 		<p>
