@@ -41,7 +41,7 @@
 		</p>
 		<h4>Modularity</h4>
 		<p>
-		The Gemini DB Access project is packaged as a small number of separate and standalone modules. 
+			The Gemini DB Access project is packaged as a small number of separate and standalone modules. 
 		</p>
 		<h4>Independence</h4>
 		<p>		    
