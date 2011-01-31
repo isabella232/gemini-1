@@ -16,22 +16,39 @@
  *
  * Contributors: Christopher Frost
  *               Mike Keith
+ *               Juergen G. Kissner
  *    
  *******************************************************************************/
 
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Gemini DBAccess - Home";
 	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, DBAccess, Home";
-	$pageAuthor		= "Mike Keith";
+	$pageAuthor		= "Juergen G. Kissner;
 			
 	ob_start();
 ?>
 	<div id="midcolumn">
 		<div class="logo"><h1>Gemini DBAccess</h1></div>
 		<p>
-			The Gemini DB Access project provides modularized distributions of JDBC drivers suitable for running in OSGi. 
-			While the list is currently fairly short, it is expected to grow as the needs of its users grow, and resources to implement 
+			The Gemini DB Access project provides modularized distributions of JDBC drivers 
+			suitable for running in OSGi. 
+			It exports a DataSourceFactory as an OSGi Service
+			so that client applications of the JDBC driver can import and access the features 
+			of the driver without having to package the driver as part of the application.
+			While the list is currently fairly short, it is expected to grow as the needs of 
+			its users grow, and resources to implement 
 			them increase.
+		</p>
+		<h4>Modularity</h4>
+		<p>
+		The Gemini DB Access project is packaged as a small number of separate and standalone modules. 
+		</p>
+		<h4>Independence</h4>
+		<p>		    
+		    Gemini DB Access  integrates with other modules of the
+			Gemini project, especially with Gemini JPA,
+			but it can also be consumed as individual module by
+			any OSGi application.
 		</p>
 		
 	</div>
@@ -41,7 +58,6 @@
 		<div class="sideitem">
 			<h6>Quick Links</h6>
 			<ul>
-				<li><a href="http://wiki.eclipse.org/Gemini">Gemini Wiki</a></li>
 				<li><a href="http://wiki.eclipse.org/Gemini/DBAccess">Gemini DBAccess Wiki</a></li>
 				<li><a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153&">Gemini Forum</a></li>  
 				<li><a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">Developer Mailing List</a></li>
