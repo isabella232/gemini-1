@@ -19,6 +19,8 @@
 <p/>
 <p>Post a message to the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">Gemini forum</a> to indicate that you would like to get involved, and how/what you would like to contribute.
 
+<p>For more information, please refer to the <a href="http://wiki.eclipse.org/Gemini/Naming/CommitterGuide">Gemini Naming Committer Guide</a> on the Gemini Naming Wiki.  
+
 </div>
 EOHTML;
 	# Generate the web page
