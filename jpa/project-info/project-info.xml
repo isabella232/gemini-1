@@ -124,7 +124,7 @@
      - other legal information as well, it can use the <legal> element
      - instead and then include the IP Log information on the Legal web page.
     -->
-  <ip-log url="http://www.eclipse.org/projects/ip_log.php?projectid=rt.gemini.jpa" /> 
+  <ip-log url="/projects/ip_log.php?projectid=rt.gemini.jpa" /> 
   <legal url="" /> 
 
   <!--
@@ -175,7 +175,7 @@
      - community and ecosystem to understand what will be delivered and when
      - it will be delivered.
     -->
-  <project-plan url="/gemini/jpa/project-info.xml" />
+  <project-plan url="/gemini/jpa/ProjectPlan_1_0.xml" />
 
   <!--
      - Each Eclipse project creates (optional) nightly builds and milestone builds,

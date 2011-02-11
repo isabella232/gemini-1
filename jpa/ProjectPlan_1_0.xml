@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
-<plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml"
-      name="Gemini JPA">
-   <release projectid="rt.gemini.jpa" version="1.0"/>
+<plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Gemini JPA">
+   <release projectid="rt.gemini.jpa" version="1.0.0"/>
    <introduction>
      <html:div>A subproject of Gemini that provides a modular implementation of JPA.</html:div>
    </introduction>
@@ -13,12 +12,13 @@
       <preamble>
          <html:div>A set of milestones will provide the functionality before the actual release.</html:div>
       </preamble>
-      <milestone date="Aug 30, 2010" milestone="M1"><html:div>optional html</html:div></milestone>
-      <milestone date="Sept 30, 2010" milestone="M2"><html:div>optional html</html:div></milestone>
-      <milestone date="Oct 31, 2010" milestone="M3"><html:div>optional html</html:div></milestone>
-      <milestone date="Nov 30, 2010" milestone="RC1"><html:div>optional html</html:div></milestone>
-      <milestone date="Dec 10, 2010" milestone="1.0"/>
-      <postamble><html:div>The project is expected to graduate from incubation at approximately the same time at the 1.0 release.</html:div></postamble>
+      <milestone date="Aug 13, 2010" milestone="M1"></milestone>
+      <milestone date="Oct 16, 2010" milestone="M2"></milestone>
+      <milestone date="Nov 18, 2010" milestone="M3"></milestone>
+      <milestone date="Feb 11, 2011" milestone="M4"></milestone>
+      <milestone date="Mar 2, 2011" milestone="RC1"></milestone>
+      <milestone date="Mar 10, 2011" milestone="1.0.0"/>
+      <postamble><html:div>The project is expected to graduate from incubation at approximately the same time as the 1.0.0 release.</html:div></postamble>
    </release_milestones>
    <target_environments>
      <html:div>Gemini JPA 1.0 is targeted to run in any standard OSGi framework environment.</html:div>
@@ -35,6 +35,10 @@
      </preamble>
      <theme name="OSGi and Java EE development">
         <description>Developers that are using Java EE technologies in an OSGi environment</description>
+     </theme>
+     <theme name="Compliance">
+        <description>To remain compliant with both the JPA and the OSGi JPA specifications</description>
+     </theme>
 <!--
         <committed bugzilla="...(recommended) bugzilla search url...">
            ...(optional alternate) html...</committed>
@@ -44,9 +48,5 @@
            ...(optional alternate) html...</deferred>
 -->
    </themes_and_priorities>
-<!--
-   <appendix name="Project Refactoring">
-     ...html...
-   </appendix>	
--->
+   <appendix />
  </plan>
