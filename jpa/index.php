@@ -78,11 +78,12 @@
 		</div>	
 		<div class="sideitem">
 			<h6>Current Status</h6>
-			<p>The project is currently in incubation, but is approaching graduation.</p>
+			<p>The project is currently in incubation but is scheduled to graduate in March 2011.</p>
 		</div>
 		<div class="sideitem">
 			<h6>New and Noteworthy</h6>
-			<p>Gemini JPA milestone M2 is now available!</p>
+			<p>Gemini JPA is about to graduate!</p>
+			<p>Watch for our graduation announcement and official release in March 2011!</p>
 		</div>
 		<!-- div class="sideitem">
 			<h6>&lt;h6&gt; tag</h6>
