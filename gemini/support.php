@@ -29,8 +29,9 @@
 ?>
 <div id="content-header">
 	<a id="content-logo" href="/gemini">
-		<img src="/gemini/images/logo.png"/>
+		<img src="/gemini/images/logo/logo-small.png"/>
 	</a>
+</div>
 </div>
 <div id="bigbuttons">
 	<h3>Primary Links</h3>
