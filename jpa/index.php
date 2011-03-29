@@ -30,7 +30,7 @@
 		<div class="logo"><h1>Gemini JPA</h1></div>
 		<p>
 			The Gemini JPA project is about modular implementations of Java Persistence API technology. 
-			This project currently provides the integration with a JPA provider to support the
+			This project currently provides the integration with the EclipseLink JPA provider to support the
 			OSGi JPA specification approach that clients can use to get JPA support in an OSGi framework.
 		</p>
 		<p>
@@ -40,7 +40,7 @@
 
 		<h4>Modularity</h4>
 		<p>
-			The Gemini JPA project is packaged as a small number of separate and standalone modules. 
+			The Gemini JPA project is packaged as a separate standalone module. An additional module is also available to perform weaving when lazy loading of many-to-one relationships is desired. 
 		</p>
 		<h4>Independence</h4>
 		<p>
@@ -65,25 +65,17 @@
 				<li><a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153&">Gemini Forum</a></li>  
 				<li><a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">Developer Mailing List</a></li>
 				<li><a href="http://www.eclipse.org/projects/project_summary.php?projectid=rt.gemini">Project Summary</a></li>
-				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;order=Importance;classification=RT;product=Gemini">Gemini Bugzilla</a></li>
+				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;order=Importance;classification=RT;product=Gemini.JPA">Gemini JPA Bugzilla</a></li>
 			</ul>
 		</div>
 		<div class="sideitem">
-			<h6>Incubation</h6>
-			<div id="incubation">
-				<a href="/projects/what-is-incubation.php">
-					<img align="center" src="/gemini/jpa/images/egg-incubation.png" border="0" alt="Incubation" />
-				</a>
-			</div>
-		</div>	
-		<div class="sideitem">
 			<h6>Current Status</h6>
-			<p>The project is currently in incubation but is scheduled to graduate in March 2011.</p>
+			<p>The project is preparing for its 1.0 release.</p>
 		</div>
 		<div class="sideitem">
 			<h6>New and Noteworthy</h6>
-			<p>Gemini JPA is about to graduate!</p>
-			<p>Watch for our graduation announcement and official release in March 2011!</p>
+			<p>Gemini JPA has graduated!</p>
+			<p>Watch for our official release this month!</p>
 		</div>
 		<!-- div class="sideitem">
 			<h6>&lt;h6&gt; tag</h6>
