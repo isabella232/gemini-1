@@ -16,9 +16,9 @@
       <milestone date="Oct 16, 2010" milestone="M2"></milestone>
       <milestone date="Nov 18, 2010" milestone="M3"></milestone>
       <milestone date="Feb 11, 2011" milestone="M4"></milestone>
-      <milestone date="Mar 2, 2011" milestone="RC1"></milestone>
-      <milestone date="Mar 10, 2011" milestone="1.0.0"/>
-      <postamble><html:div>The project is expected to graduate from incubation at approximately the same time as the 1.0.0 release.</html:div></postamble>
+      <milestone date="Mar 25, 2011" milestone="RC1"></milestone>
+      <milestone date="Apr 8, 2011" milestone="1.0.0"/>
+      <postamble><html:div>The project graduation will be followed soon after by a 1.0.0 release.</html:div></postamble>
    </release_milestones>
    <target_environments>
      <html:div>Gemini JPA 1.0 is targeted to run in any standard OSGi framework environment.</html:div>

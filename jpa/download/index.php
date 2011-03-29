@@ -66,7 +66,7 @@
 
 	</div>
 
-	<!-- remove the entire <div> tag to omit the right column!  -->
+	<!-- remove the entire <div> tag to omit the right column! 
 	<div id="rightcolumn">
 		<div class="sideitem">
 			<h6>Incubation</h6>
@@ -77,7 +77,7 @@
 			</div>
 		</div>
 	</div>
-
+    -->
 <?
 	$html = ob_get_clean();
 	# Generate the web page
