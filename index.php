@@ -103,17 +103,17 @@
 
 	<div class="sideitem">
 		<h6>Current Status</h6>
-		<p>Most of the Gemini subprojects have milestones available for downloading and are preparing for graduation from incubation.</p>
+		<p>Most of the Gemini subprojects have graduated and have releases that can be obtained from their respective subsites.</p>
 	</div>
-	
-	<div class="sideitem">
-		<h6>Incubation</h6>
-		<div id="incubation" align="center">
-	   		<a href="/projects/what-is-incubation.php">
-	   			<img align="center" src="/images/egg-incubation.png" border="0" alt="Incubation" />
-	   		</a>
-	   	</div>
-	</div>
+
+    <div class="sideitem">
+        <h6>Incubation</h6>
+        <div id="incubation">
+            <a href="/projects/what-is-incubation.php">
+                <img align="center" src="/gemini/images/egg-incubation.png" border="0" alt="Incubation" />
+            </a>
+        </div>
+    </div>  
 
 	<div class="sideitem">
 		<h6>Gemini Subprojects</h6>
