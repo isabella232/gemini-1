@@ -42,7 +42,7 @@
         <h2>Latest Milestone of Gemini DBAccess: <?=$latestMilestone ?></h2>
 		<br/>
 		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$milestoneM1 ?>.zip" target="_self">Download</a>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$latestMilestone ?>.zip" target="_self">Download</a>
 		</p>
 		
 		<h2>1.0.0 Milestones of Gemini DBAccess</h2>
