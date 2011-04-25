@@ -16,6 +16,7 @@
  *
  * Contributors: Christopher Frost
  *               Mike Keith
+ *               Juergen G. Kissner
  *    
  *******************************************************************************/
 
@@ -25,9 +26,10 @@
 	$pageAuthor		= "Mike Keith";
 
 	$milestoneM1 = "1.0.0.M1-incubation";
+	$milestoneRC1 = "1.0.0.RC1";
 
-	$latestMilestone = "1.0.0.M1-incubation";
-
+	$latestMilestone = "1.0.0.RC1";
+	
 	ob_start();
 ?>
 	
@@ -40,9 +42,18 @@
         <h2>Latest Milestone of Gemini DBAccess: <?=$latestMilestone ?></h2>
 		<br/>
 		<p>
-			<strong>Gemini DBAccess</strong> -  
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$milestoneM1 ?>.zip" target="_self">Download</a>
 		</p>
+		
+		<h2>1.0.0 Milestones of Gemini DBAccess</h2>
+		<br/>
+		<p>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$milestoneRC1 ?>.zip" target="_self">1.0.0 RC1</a>
+		</p>
+		<p>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$milestoneM1 ?>.zip" target="_self">1.0.0 Milestone 1</a>
+		</p>
+			
 
 	</div>
 
