@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?><!DOCTYPE plan SYSTEM "plan.dtd">
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Gemini JPA">
    <release projectid="rt.gemini.jpa" version="1.0.0"/>
@@ -18,8 +18,10 @@
       <milestone date="Feb 11, 2011" milestone="M4"></milestone>
       <milestone date="Mar 25, 2011" milestone="RC1"></milestone>
       <milestone date="June 10, 2011" milestone="RC2"></milestone>
-      <milestone date="July 8, 2011" milestone="1.0.0"/>
-      <postamble><html:div>The project graduation will be followed by a 1.0.0 release.</html:div></postamble>
+      <milestone date="July 6, 2011" milestone="RC2"></milestone>
+      <milestone date="July 20, 2011" milestone="RC3"></milestone>
+      <milestone date="July 27, 2011" milestone="1.0.0"/>
+      <postamble><html:div>The release will assume Equinox 3.7 or any OSGi framework that supports the Core Specification v4.3.</html:div></postamble>
    </release_milestones>
    <target_environments>
      <html:div>Gemini JPA 1.0 is targeted to run in any standard OSGi framework environment.</html:div>
