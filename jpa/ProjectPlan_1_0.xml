@@ -10,14 +10,13 @@
    </release_deliverables>
    <release_milestones>
       <preamble>
-         <html:div>A set of milestones will provide the functionality before the actual release.</html:div>
+         <html:div>A set of milestones and release candidates will provide the functionality before the actual release.</html:div>
       </preamble>
       <milestone date="Aug 13, 2010" milestone="M1"></milestone>
       <milestone date="Oct 16, 2010" milestone="M2"></milestone>
       <milestone date="Nov 18, 2010" milestone="M3"></milestone>
       <milestone date="Feb 11, 2011" milestone="M4"></milestone>
       <milestone date="Mar 25, 2011" milestone="RC1"></milestone>
-      <milestone date="June 10, 2011" milestone="RC2"></milestone>
       <milestone date="July 6, 2011" milestone="RC2"></milestone>
       <milestone date="July 20, 2011" milestone="RC3"></milestone>
       <milestone date="July 27, 2011" milestone="1.0.0"/>
