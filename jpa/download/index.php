@@ -30,7 +30,7 @@
 	$milestoneM4 = "1.0.0.M4-incubation";
 	$milestoneRC1 = "1.0.0.RC1";
 	$milestoneRC2 = "1.0.0.RC2";
-	$milestoneRC2 = "1.0.0.RC3";
+	$milestoneRC3 = "1.0.0.RC3";
 
 	$latestMilestone = "1.0.0.RC3";
 
