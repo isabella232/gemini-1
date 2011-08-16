@@ -68,10 +68,6 @@
 </div>
 -->
 
-<!-- 
-<h3>...and yet powerful</h3>
--->
- 
 	<div id="modularity" class="section">
 		<h4>Modularity</h4>
 		<p>Each of the sub-projects is packaged as a separate and standalone module.</p>
@@ -96,6 +92,14 @@
 			<li><a href="/projects/project_summary.php?projectid=rt.gemini">About This Project</a></li>
 		</ul>
 	</div>
+
+    <div id="rt">
+        <object width="640" height="480">
+            <a href="http://www.eclipse.org/eclipsert"> 
+               <img src="/equinox/images/EclipseRT.png" alt="RT"/>                
+            </a>
+        </object>
+    </div>
 
 </div>
 
