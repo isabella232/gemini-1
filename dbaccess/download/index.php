@@ -23,12 +23,13 @@
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Gemini DBAccess - Downloads";
 	$pageKeywords	= "Eclipse, EclipseRT, OSGi, DBAccess, Downloads";
-	$pageAuthor		= "Mike Keith";
+	$pageAuthor		= "Juergen G. Kissner";
 
 	$milestoneM1 = "1.0.0.M1-incubation";
 	$milestoneRC1 = "1.0.0.RC1";
-
-	$latestMilestone = "1.0.0.RC1";
+	$milestoneRC2 = "1.0.0.RC2";
+	
+	$latestMilestone = "1.0.0.RC2";
 	
 	ob_start();
 ?>
@@ -47,6 +48,9 @@
 		
 		<h2>1.0.0 Milestones of Gemini DBAccess</h2>
 		<br/>
+		<p>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$milestoneRC2 ?>.zip" target="_self">1.0.0 RC2</a>
+		</p>
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$milestoneRC1 ?>.zip" target="_self">1.0.0 RC1</a>
 		</p>
