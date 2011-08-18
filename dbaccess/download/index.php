@@ -57,7 +57,14 @@
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$milestoneM1 ?>.zip" target="_self">1.0.0 Milestone 1</a>
 		</p>
-			
+		<h2>Gemini DBAccess Update Site</h2>
+		<p>
+			Use the update site for your target platform via the Eclipse IDE.
+		</p>
+		
+		<p>
+			<a href="http://download.eclipse.org/gemini/dbaccess/updates/1.0/" target="_self">1.0 Update Site</a>
+		</p>
 
 	</div>
 
