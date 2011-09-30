@@ -45,7 +45,7 @@
 			All downloads are provided under the terms and conditions of the 
 			<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.
 		</p>
-        <h2>Latest Release of Gemini JPA: <?=$latestRelease ?></h2>
+        <h2>Gemini JPA 1.0.0 Release Now Available!</h2>
 		<br/>
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/gemini-jpa-1.0.0.RELEASE.zip" target="_self">Download</a>
