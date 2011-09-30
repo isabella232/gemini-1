@@ -57,7 +57,7 @@
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/milestones/gemini-jpa-<?=$latestMilestone ?>.zip" target="_self">Download</a>
 		</p>
 		-->
-        <h3>Milestones of Gemini JPA</h3>
+        <h4>Milestones of Gemini JPA</h4>
 		<br/>
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneRC3 ?>.zip" target="_self">1.0.0 RC3</a>
