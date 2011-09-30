@@ -32,7 +32,9 @@
 	$milestoneRC2 = "1.0.0.RC2";
 	$milestoneRC3 = "1.0.0.RC3";
 
-	$latestMilestone = "1.0.0.RC3";
+	$latestMilestone = "1.0.0.RELEASE";
+
+	$latestRelease = "1.0.0.RELEASE";
 
 	ob_start();
 ?>
@@ -43,12 +45,19 @@
 			All downloads are provided under the terms and conditions of the 
 			<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.
 		</p>
+        <h2>Latest Release of Gemini JPA: <?=$latestRelease ?></h2>
+		<br/>
+		<p>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/gemini-jpa-1.0.0.RELEASE.zip" target="_self">Download</a>
+		</p>
+		<!--
         <h2>Latest Milestone of Gemini JPA: <?=$latestMilestone ?></h2>
 		<br/>
 		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$latestMilestone ?>.zip" target="_self">Download</a>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/milestones/gemini-jpa-<?=$latestMilestone ?>.zip" target="_self">Download</a>
 		</p>
-        <h2>1.0.0 Milestones of Gemini JPA</h2>
+		-->
+        <h2>Milestones of Gemini JPA</h2>
 		<br/>
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneRC3 ?>.zip" target="_self">1.0.0 RC3</a>
@@ -58,18 +67,6 @@
 		</p>
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneRC1 ?>.zip" target="_self">1.0.0 RC1</a>
-		</p>
-		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneM4 ?>.zip" target="_self">1.0.0 Milestone 4</a>
-		</p>
-		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneM3 ?>.zip" target="_self">1.0.0 Milestone 3</a>
-		</p>
-		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneM2 ?>.zip" target="_self">1.0.0 Milestone 2</a>
-		</p>
-		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneM1 ?>.zip" target="_self">1.0.0 Milestone 1</a>
 		</p>
 
 	</div>

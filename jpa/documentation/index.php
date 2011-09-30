@@ -30,8 +30,7 @@
 	<div id="midcolumn">
 		<h2>Gemini JPA - Documentation</h2>
 		<p>
-			Documentation is on the Wiki. 
-			See http://wiki.eclipse.org/Gemini/JPA/Documentation.
+			Documentation is on the <a href="http://wiki.eclipse.org/Gemini/JPA/Documentation" target="_self">Gemini JPA Wiki</a>
 		</p>
 	</div>
 
