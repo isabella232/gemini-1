@@ -57,15 +57,13 @@
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/milestones/gemini-jpa-<?=$latestMilestone ?>.zip" target="_self">Download</a>
 		</p>
 		-->
-        <h2>Milestones of Gemini JPA</h2>
+        <h3>Milestones of Gemini JPA</h3>
 		<br/>
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneRC3 ?>.zip" target="_self">1.0.0 RC3</a>
-		</p>
-		<p>
+			<br/>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneRC2 ?>.zip" target="_self">1.0.0 RC2</a>
-		</p>
-		<p>
+			<br/>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneRC1 ?>.zip" target="_self">1.0.0 RC1</a>
 		</p>
 
