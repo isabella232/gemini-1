@@ -28,8 +28,9 @@
 	$milestoneM1 = "1.0.0.M1-incubation";
 	$milestoneRC1 = "1.0.0.RC1";
 	$milestoneRC2 = "1.0.0.RC2";
+	$milestoneRELEASE = "1.0.0.RELEASE";
 	
-	$latestMilestone = "1.0.0.RC2";
+	$latestMilestone = "1.0.0.RELEASE";
 	
 	ob_start();
 ?>
@@ -40,13 +41,13 @@
 			All downloads are provided under the terms and conditions of the 
 			<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.
 		</p>
-        <h2>Latest Milestone of Gemini DBAccess: <?=$latestMilestone ?></h2>
+        <h2>Gemini DBAccess Release: <?=$latestMilestone ?></h2>
 		<br/>
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$latestMilestone ?>.zip" target="_self">Download</a>
 		</p>
 		
-		<h2>1.0.0 Milestones of Gemini DBAccess</h2>
+		<h2>1.0 Milestones of Gemini DBAccess</h2>
 		<br/>
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$milestoneRC2 ?>.zip" target="_self">1.0.0 RC2</a>
