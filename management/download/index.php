@@ -51,7 +51,7 @@
 
 		<h2>Development Milestones</h2>
 		<p>
-			Development milestones are available for <a href="http://www.eclipse.org/gemini/web/download/milestones.php">download</a>. 
+			Development milestones are available for <a href="/gemini/management/download/milestones.php">download</a>. 
 		</p>
 	
 	</div>
