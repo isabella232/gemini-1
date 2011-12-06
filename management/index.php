@@ -46,7 +46,7 @@
 		<div class="sideitem">
 			<h6>Quick Links</h6>
 			<ul>
-				<li><a href="http://wiki.eclipse.org/Gemini">Gemini Wiki</a></li>
+				<li><a href="http://wiki.eclipse.org/Gemini/Management">Gemini Management Wiki</a></li>
 				<li><a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153&">Gemini Forum</a></li>  
 				<li><a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">Developer Mailing List</a></li>
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;bug_status=NEW;bug_status=ASSIGNED;bug_status=REOPENED;product=Gemini.Management;classification=RT">Gemini Bugzilla</a></li>

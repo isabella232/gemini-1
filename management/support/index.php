@@ -30,7 +30,7 @@
 		<h2>Community Forum</h2>
 		<p>
 			The Gemini Forum is intended for user community discussions on Gemini usage and troubleshooting.
-			Developers using Gemini Management should refer to the <a href="http://wiki.eclipse.org/Gemini/Management">Gemini Management wiki</a>
+			Developers using Gemini Management should refer to the <a href="http://wiki.eclipse.org/Gemini/Management">Gemini Management Wiki</a>
 			and the <a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">Gemini Developer mailing list</a>.
 		</p>
 		<ul>
