@@ -20,7 +20,7 @@
  *******************************************************************************/
 
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Gemini Web OSGi Runtime - Home";
+	$pageTitle 		= "Gemini Management - Home";
 	$pageKeywords	= "Eclipse, EclipseRT, Gemini, Management OSGi, Home";
 	$pageAuthor		= "Christopher Frost";
 			
@@ -39,9 +39,7 @@
 	<div id="rightcolumn">
 		<div class="sideitem">
 		   <h6>Incubation</h6>
-		   <div align="center"><a href="/projects/what-is-incubation.php"><img 
-		        align="center" src="/images/egg-incubation.png" 
-		        border="0" alt="Incubation" /></a></div>
+		   <div id="incubation"><a href="/projects/what-is-incubation.php"><img src="/images/egg-incubation.png" border="0" alt="Incubation" /></a></div>
 		</div>
 		<div class="sideitem">
 			<h6>Quick Links</h6>
