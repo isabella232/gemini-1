@@ -25,17 +25,18 @@
 	# $Nav->setLinkList(array());
 	
 	# Break the navigation into sections
-	$Nav->addNavSeparator("Gemin Management", 	"/gemini/management");
-	$Nav->addCustomNav("Download", "/gemini/management/download.php", "_self", 3);
-	$Nav->addCustomNav("Documentation", "/gemini/management/documentation.php", "_blank", 3);
-	$Nav->addCustomNav("Support", "/gemini/management/support.php", "_blank", 3);
-	$Nav->addCustomNav("Getting Involved", "/gemini/management/getting_involved.php", "_blank", 3);
+	$Nav->addNavSeparator("Gemini Management Home", 	"/gemini/management/");
+	$Nav->addCustomNav("About This Project", 	"http://www.eclipse.org/projects/project_summary.php?projectid=rt.gemini.management",    		"_self", 3);
+	$Nav->addCustomNav("Download", 			"/gemini/management/download", 		"_self", 3);
+	$Nav->addCustomNav("Documentation", 	"/gemini/management/documentation",	"_self", 3);
+	$Nav->addCustomNav("Support", 			"/gemini/management/support", 			"_self", 3);
+	$Nav->addCustomNav("Getting Involved", 	"/gemini/management/contribute",		"_self", 3);
+	$Nav->addCustomNav("Background", 		"/gemini/management/about",    		"_self", 3);
 
 	# Define keywords, author and title here, or in each PHP page specifically
-	$pageKeywords	= "osgi, jmx, javaee, gemini, enterprise, modules";
-	$pageAuthor		= "Mike Keith";
-	$pageTitle 		= "Gemini Management";
-
+	# $pageKeywords	= "eclipse, OSGi, gemini";
+	# $pageAuthor		= "Christopher Frost";
+	# $pageTitle 		= "Gemini Web Container from EclipseRT";
 
 	# top navigation bar
 	# To override and replace the navigation with your own, uncomment the line below.
@@ -47,11 +48,14 @@
 	# $Menu->addMenuItem("Developers", "/project/developers", "_self");
 	
 	# To define additional CSS or other pre-body headers
-	# $App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="style.css"/>');
+	$App->AddExtraHtmlHeader('<link media="screen" rel="stylesheet" type="text/css" href="/gemini/management/resources/local.css"/>');
 	
+	$App->AddExtraHtmlHeader('<script type="text/javascript" src="/gemini/management/resources/mootools-1.2.4-core-yc.js"></script>');
+	$App->AddExtraHtmlHeader('<script type="text/javascript" src="/gemini/management/resources/mootools-1.2.4.4-more.js"></script>');
+
 	# To enable occasional Eclipse Foundation Promotion banners on your pages (EclipseCon, etc)
 	$App->Promotion = TRUE;
 	
 	# If you have Google Analytics code, use it here
-	# $App->SetGoogleAnalyticsTrackingCode("YOUR_CODE");
+	#$App->SetGoogleAnalyticsTrackingCode("UA-17221847-1");
 ?>

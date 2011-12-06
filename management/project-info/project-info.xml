@@ -27,7 +27,7 @@
      - Each project can also have a short name to be used in HTML lists and 
      - other horizontally challenged places.
     -->
-  <short-name>Phoenix</short-name>
+  <short-name>Gemini Management</short-name>
   
   <!--
      - Each Eclipse project has one or more Bugzilla products and components.
@@ -40,7 +40,7 @@
      - page of the first product. Multiple <product>s are allowed.
     -->
   <bugzilla>
-    <product name="Phoenix"/>
+    <product name="Gemini"/>
   </bugzilla>
 
   <!--
@@ -85,7 +85,7 @@
      -       url would be something like "/tptp/project-info/description.html".
     -->
   <description url="/phoenix/about.php"
-     paragraph-url="/phoenix/project-info/project-page-paragraph.html"/>
+     paragraph-url="/gemini/project-info/paragraph.html"/>
   
   <!--
      - In addition to the description, each Eclipse project is also required to
@@ -106,7 +106,7 @@
      - points to a web page on the project's site that describes how to
      - get started using and extending the project's tools and frameworks.
     -->
-  <getting-started url="/phoenix/docs/" />
+  <getting-started url="/gemini/documentation" />
   
   <!--
      - It is also important to help new contributors get started with an Eclipse project.
@@ -115,7 +115,7 @@
      - points to a web page on the project's site that describes how to
      - get started developing on, and contributing to, the project.
     -->
-  <contributing url="/phoenix/docs/" />
+  <contributing url="/gemini/contribute/" />
   
   <!--
      - Each Eclipse project is required to maintain a current Project IP Log.
@@ -140,7 +140,7 @@
      - the separate project-info/maillist file as well.
     -->
   <mailing-lists>
-    <list name="phoenix-dev"/>
+    <list name="gemini-dev"/>
   </mailing-lists>
   
   <!--

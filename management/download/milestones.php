@@ -14,28 +14,58 @@
  * which accompanies this distribution, and is available at
  * http://www.eclipse.org/legal/epl-v10.html
  *
- * Contributors: Christopher Frost
- *
+ * Contributors: Glyn Normington
  *    
  *******************************************************************************/
 
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Gemini Web OSGi Runtime - Home";
-	$pageKeywords	= "Eclipse, EclipseRT, Gemini, Management OSGi, Home";
+	$pageTitle 		= "Gemini Management - Milestone Downloads";
+	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, Downloads";
 	$pageAuthor		= "Christopher Frost";
-			
+	
+	$geminiWebVersions = array("1.0.0.M01-incubation");
+	
 	ob_start();
 ?>
+
+	<script type="text/javascript">
+            window.addEvent('domready', function() {
+                    new Accordion('h4.toggle', 'div.accordion', {initialDisplayFx: false});
+            });
+	</script>
+	
 	<div id="midcolumn">
-		<div class="logo"><h1>Gemini Management</h1></div>
+		<h2>Milestone Downloads</h2>
 		<p>
-			Gemini Management implements the JMX  Specification Version 1.0 of the OSGi Service Platform Enterprise Specification, Release 4, Version 4.2, section 124.
-			To learn more about Gemini Management you can read the <a href="http://www.eclipse.org/gemini/management/documentation">documentation</a>.
+			All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> 
+			unless otherwise specified.
 		</p>
 		
-	</div>
+		<p>
+			The following are development milestones. You may prefer to <a href="http://www.eclipse.org/gemini/management/download/">download</a> an official release.
+		</p>
+	
+	<?
+	$first = true;
+	foreach ($geminiWebVersions as $version){
+		echo "<h4 class='toggle'>$version";
+		if ($first) {
+			echo " - Latest</h4>";
+		} else {
+			echo "</h4>";
+		}
+		echo "<div class='accordion'>";
+		echo "	<ul>";
+		echo "		<li><a href='http://www.eclipse.org/gemini/management/download/release-notes/$version.php' target='_self'>View Release Notes</a></li>";
+		echo "		<li><strong>Gemini Management</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/management/milestone/GW/$version/gemini-management-$version.zip' target='_self'>Download</a></li>";
+		echo "	</ul>";
+		echo "</div>";
+		$first = false;
+	}
+	?>
 
-	<!-- remove the entire <div> tag to omit the right column!  -->
+	</div>
+	
 	<div id="rightcolumn">
 		<div class="sideitem">
 		   <h6>Incubation</h6>
@@ -61,10 +91,8 @@
 		</div -->
 	</div>
 
-	
 <?
 	$html = ob_get_clean();
-
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
 ?>

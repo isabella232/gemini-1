@@ -15,27 +15,47 @@
  * http://www.eclipse.org/legal/epl-v10.html
  *
  * Contributors: Christopher Frost
- *
  *    
  *******************************************************************************/
 
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Gemini Web OSGi Runtime - Home";
-	$pageKeywords	= "Eclipse, EclipseRT, Gemini, Management OSGi, Home";
+	$pageTitle 		= "Gemini Management - Release Downloads";
+	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, Management, Documentation";
 	$pageAuthor		= "Christopher Frost";
-			
+		
 	ob_start();
 ?>
+
+	<script type="text/javascript">
+            window.addEvent('domready', function() {
+                    new Accordion('h4.toggle', 'div.accordion', {initialDisplayFx: false});
+            });
+	</script>
+	
 	<div id="midcolumn">
-		<div class="logo"><h1>Gemini Management</h1></div>
+		<h2>Gemini Management Downloads</h2>
 		<p>
-			Gemini Management implements the JMX  Specification Version 1.0 of the OSGi Service Platform Enterprise Specification, Release 4, Version 4.2, section 124.
-			To learn more about Gemini Management you can read the <a href="http://www.eclipse.org/gemini/management/documentation">documentation</a>.
+			All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> 
+			unless otherwise specified.
 		</p>
 		
+		
+<!--	<h4 class='toggle'>1.0.0.RELEASE</h4>
+		<div class='accordion'>
+			<ul>
+				<li><a href='http://www.eclipse.org/gemini/web/download/release-notes/2.0.0.RELEASE.php' target='_self'>View Release Notes</a> (<a href="https://bugs.eclipse.org/bugs/attachment.cgi?id=200887">Download approved IP log</a>)</li>
+				<li><strong>Gemini Web</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/web/release/GW/2.0.0.RELEASE/gemini-web-2.0.0.RELEASE.zip' target='_self'>Download</a></li>
+				<li>Documentation is included with the download and can be viewed on line <a href="http://www.eclipse.org/gemini/web/documentation/">here</a>.
+			</ul>
+		</div>-->
+
+		<h2>Development Milestones</h2>
+		<p>
+			Development milestones are available for <a href="http://www.eclipse.org/gemini/web/download/milestones.php">download</a>. 
+		</p>
+	
 	</div>
 
-	<!-- remove the entire <div> tag to omit the right column!  -->
 	<div id="rightcolumn">
 		<div class="sideitem">
 		   <h6>Incubation</h6>
@@ -61,10 +81,8 @@
 		</div -->
 	</div>
 
-	
 <?
 	$html = ob_get_clean();
-
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
 ?>
