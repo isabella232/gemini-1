@@ -61,16 +61,7 @@
 		   <h6>Incubation</h6>
 		   <div id="incubation"><a href="/projects/what-is-incubation.php"><img src="/images/egg-incubation.png" border="0" alt="Incubation" /></a></div>
 		</div>
-		<div class="sideitem">
-			<h6>Quick Links</h6>
-			<ul>
-				<li><a href="http://wiki.eclipse.org/Gemini">Gemini Wiki</a></li>
-				<li><a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153&">Gemini Forum</a></li>  
-				<li><a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">Developer Mailing List</a></li>
-				<li><a href="http://www.eclipse.org/projects/project_summary.php?projectid=rt.gemini.management">Subproject Summary</a></li>
-				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;order=Importance;classification=RT;product=Gemini">Gemini Bugzilla</a></li>
-			</ul>
-		</div>
+
 		<!-- div class="sideitem">
 			<h6>&lt;h6&gt; tag</h6>
 				<div class="modal">
