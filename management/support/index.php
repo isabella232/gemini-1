@@ -34,7 +34,9 @@
 			and the <a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">Gemini Developer mailing list</a>.
 		</p>
 		<ul>
-			<li><a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">Browse forum posts</a> using the web interface</li>
+			<li>
+				<a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">Browse forum posts</a> using the web interface.
+			</li>
 			<li>
 				<a href="news://news.eclipse.org/eclipse.rt.gemini">Subscribe</a> to the forum with your news reader.
 				<a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">See the FAQ</a>
