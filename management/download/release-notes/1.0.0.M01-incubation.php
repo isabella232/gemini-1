@@ -29,7 +29,13 @@
 <div id="midcolumn">
 
 <h3>1.0.0.M01-incubation - Release Notes</h3>
-<p>Bug list is available <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;classification=RT;product=Gemini.Web;target_milestone=1.1.0.M02-incubation" target="_self">here</a>.</p>
+
+<p>
+	This is the first formal release of Gemini Management. You can see all the bugs that have been completed for this release below. 
+</p>
+<p>
+	Bug list is available <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;classification=RT;product=Gemini.Management;target_milestone=1.0.0.M01-incubation" target="_self">here</a>.
+</p>
 
 </div>
 

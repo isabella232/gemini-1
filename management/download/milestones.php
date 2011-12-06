@@ -44,7 +44,6 @@
 		<p>
 			The following are development milestones. You may prefer to <a href="http://www.eclipse.org/gemini/management/download/">download</a> an official release.
 		</p>
-	
 	<?
 	$first = true;
 	foreach ($geminiWebVersions as $version){
@@ -57,7 +56,7 @@
 		echo "<div class='accordion'>";
 		echo "	<ul>";
 		echo "		<li><a href='http://www.eclipse.org/gemini/management/download/release-notes/$version.php' target='_self'>View Release Notes</a></li>";
-		echo "		<li><strong>Gemini Management</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/management/milestone/GW/$version/gemini-management-$version.zip' target='_self'>Download</a></li>";
+		echo "		<li><strong>Gemini Management</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/management/milestone-zips/org.eclipse.gemini.mgmt_$version.jar' target='_self'>Download</a></li>";
 		echo "	</ul>";
 		echo "</div>";
 		$first = false;
