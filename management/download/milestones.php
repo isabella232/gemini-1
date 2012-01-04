@@ -23,7 +23,7 @@
 	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, Downloads";
 	$pageAuthor		= "Christopher Frost";
 	
-	$geminiWebVersions = array("1.0.0.M01-incubation", "1.0.0.RC1-incubation");
+	$geminiWebVersions = array("1.0.0.RC1-incubation", "1.0.0.M01-incubation");
 	
 	ob_start();
 ?>
