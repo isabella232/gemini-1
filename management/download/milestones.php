@@ -23,7 +23,7 @@
 	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, Downloads";
 	$pageAuthor		= "Christopher Frost";
 	
-	$geminiWebVersions = array("1.0.0.M01-incubation");
+	$geminiWebVersions = array("1.0.0.M01-incubation", "1.0.0.RC1-incubation");
 	
 	ob_start();
 ?>
@@ -56,7 +56,7 @@
 		echo "<div class='accordion'>";
 		echo "	<ul>";
 		echo "		<li><a href='http://www.eclipse.org/gemini/management/download/release-notes/$version.php' target='_self'>View Release Notes</a></li>";
-		echo "		<li><strong>Gemini Management</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/management/milestone-zips/org.eclipse.gemini.mgmt_$version.jar' target='_self'>Download</a></li>";
+		echo "		<li><strong>Gemini Management</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/management/milestone-zips/$version/org.eclipse.gemini.mgmt_$version.jar' target='_self'>Download</a></li>";
 		echo "	</ul>";
 		echo "</div>";
 		$first = false;
