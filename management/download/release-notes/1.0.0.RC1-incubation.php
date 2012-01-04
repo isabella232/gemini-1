@@ -36,7 +36,7 @@
 		of 1.0.0 of Gemini Management. You can see all the bugs that have been completed for this release below. 
 	</p>
 	<p>
-		Bug list is available <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;classification=RT;product=Gemini.Management;target_milestone=1.0.0.MO2-incubation" target="_self">here</a>.
+		Bug list is available <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;classification=RT;product=Gemini.Management;target_milestone=1.0.0.M02-incubation" target="_self">here</a>.
 	</p>
 
 </div>
