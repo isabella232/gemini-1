@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan-render.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Gemini Management">
-   <release projectid="rt.gemini.management" version="1.0"/>
+   <release projectName="Gemini Management" projectid="rt.gemini.management" version="1.0.0.RELEASE"/>
    <introduction>
      <html:div>A subproject of Gemini that provides a remote JMX management of the module system runtime</html:div>
    </introduction>
    <release_deliverables>
-     <html:div>A single bundle.</html:div>
+     <html:div>A single bundle along with web based user documentation.</html:div>
    </release_deliverables>
    <release_milestones>
       <preamble>
