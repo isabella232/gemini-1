@@ -54,7 +54,7 @@
 		<li>Initial implementation of the WiringStateMBean which will replace the deprecated PacakgeStateMBean.</li>
 	</ul>
 	<p>
-		Full bug list is available <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;classification=RT;product=Gemini.Management;target_milestone=1.0.0.M02-incubation" target="_self">here</a>.
+		Full bug list is available <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;classification=RT;product=Gemini.Management;target_milestone=1.0.0.RC1-incubation" target="_self">here</a>.
 	</p>
 
 </div>
