@@ -70,12 +70,11 @@
 		</div>
 		<div class="sideitem">
 			<h6>Current Status</h6>
-			<p>The project is preparing for its 1.0 release.</p>
+			<p>The project is tracking for its 1.1 release targeted for June 2012.</p>
 		</div>
 		<div class="sideitem">
 			<h6>New and Noteworthy</h6>
-			<p>Gemini JPA has graduated!</p>
-			<p>Watch for our official release this month!</p>
+			<p>Gemini JPA 1.1 M1 coming soon.</p>
 		</div>
 		<!-- div class="sideitem">
 			<h6>&lt;h6&gt; tag</h6>
