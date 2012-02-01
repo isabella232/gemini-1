@@ -17,7 +17,7 @@
 <div id="midcolumn">
 <h2>$pageTitle</h2>
 </p>
-<p>Documentation is in the process of being written for Gemini Naming.</p>
+<p>Documentation for Gemini Naming is available on the <a href="http://wiki.eclipse.org/Gemini/Naming/Documentation">Gemini Naming wiki doc page</a>.</p>
 
 </div>
 EOHTML;
