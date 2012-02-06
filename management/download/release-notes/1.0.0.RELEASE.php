@@ -33,7 +33,9 @@
 	<p>
 		This is the first release of Gemini Management, it contains all the updates from M01 
 		(<a href="http://www.eclipse.org/gemini/management/download/release-notes/1.0.0.M01-incubation.php">Release Notes</a>) 
-		and RC1 (<a href="http://www.eclipse.org/gemini/management/download/release-notes/1.0.0.RC1-incubation.php">Release Notes</a>.
+		and RC1 (<a href="http://www.eclipse.org/gemini/management/download/release-notes/1.0.0.RC1-incubation.php">Release Notes</a>).
+	</p>
+	<p>
 		Nothing has changed since RC1, for a full list of bugs please see 
 		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;classification=RT;product=Gemini.Management;target_milestone=1.0.0.M01-incubation;target_milestone=1.0.0.RC1-incubation;target_milestone=1.0.0.RELEASE" target="_self">here</a>.
 	</p>
