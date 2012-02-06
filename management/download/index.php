@@ -22,7 +22,7 @@
 	$pageTitle 		= "Gemini Management - Release Downloads";
 	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, Management, Documentation";
 	$pageAuthor		= "Christopher Frost";
-		
+
 	ob_start();
 ?>
 
@@ -38,16 +38,16 @@
 			All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> 
 			unless otherwise specified.
 		</p>
-		
-		
-<!--	<h4 class='toggle'>1.0.0.RELEASE</h4>
-		<div class='accordion'>
-			<ul>
-				<li><a href='http://www.eclipse.org/gemini/web/download/release-notes/2.0.0.RELEASE.php' target='_self'>View Release Notes</a> (<a href="https://bugs.eclipse.org/bugs/attachment.cgi?id=200887">Download approved IP log</a>)</li>
-				<li><strong>Gemini Web</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/web/release/GW/2.0.0.RELEASE/gemini-web-2.0.0.RELEASE.zip' target='_self'>Download</a></li>
-				<li>Documentation is included with the download and can be viewed on line <a href="http://www.eclipse.org/gemini/web/documentation/">here</a>.
-			</ul>
-		</div>-->
+	
+		<h4 class='toggle'>1.0.0.RELEASE</h4>"
+		<div class='accordion'>";
+			<ul>";
+				<li><a href='http://www.eclipse.org/gemini/management/download/release-notes/1.0.0.RELEASE.php' target='_self'>View Release Notes</a><a href='https://bugs.eclipse.org/bugs/attachment.cgi?id=209305' target='_self'>Download Approved IP Log</a></li>
+				<li>Update Site "http://download.eclipse.org/gemini/updates/management/1.0.0.RELEASE"</li>
+				<li><strong>Gemini Management</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/management/release-zips/1.0.0.RELEASE/org.eclipse.gemini.mgmt_1.0.0.RELEASE.jar' target='_self'>Download</a></li>
+			</ul>";
+		</div>";
+
 
 		<h2>Development Milestones</h2>
 		<p>
