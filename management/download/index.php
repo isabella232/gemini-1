@@ -43,7 +43,7 @@
 		<div class='accordion'>
 			<ul>
 				<li><a href='http://www.eclipse.org/gemini/management/download/release-notes/1.0.0.RELEASE.php' target='_self'>View Release Notes. </a> (<a href='https://bugs.eclipse.org/bugs/attachment.cgi?id=209305' target='_self'>Download Approved IP Log</a>)</li>
-				<li>Update Site "http://download.eclipse.org/gemini/updates/management/1.0.0.RELEASE"</li>
+				<li>Update Site 'http://download.eclipse.org/gemini/updates/management/1.0.0.RELEASE'</li>
 				<li><strong>Gemini Management</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/management/release-zips/1.0.0.RELEASE/org.eclipse.gemini.mgmt_1.0.0.RELEASE.jar' target='_self'>Download</a></li>
 			</ul>
 		</div>
