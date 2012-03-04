@@ -18,21 +18,20 @@
 <h2>$pageTitle</h2>
 <p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
-<h2>Latest Milestone of Gemini Naming (1.0.0.M01-incubation)</h2>
+<h2>Latest Milestone of Gemini Naming</h2>
  <p>
-     <strong>Gemini Naming </strong> - 
-     <a href="http://www.eclipse.org/downloads/download.php?file=/naming/milestones/gemini-naming-1.0.0.M01-incubation/gemini-naming-1.0.0.M01-incubation.zip">Download</a>
+     <strong>1.0.0.M02</strong> - 
+     <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/naming/r1.0/milestones/gemini-naming-1.0.0.M02.zip">Download</a>
  </p>
+
+<h3>Previous Milestones of Gemini Naming</h3>
+<p>
+     <strong>1.0.0.M01-incubation</strong> - 
+     <a href="http://www.eclipse.org/downloads/download.php?file=/naming/milestones/gemini-naming-1.0.0.M01-incubation/gemini-naming-1.0.0.M01-incubation.zip">Download</a>
+</p>
 </div>
 
-
 <div id="rightcolumn">
-<div class="sideitem">
-   <h6>Incubation</h6>
-   <div align="center"><a href="/projects/what-is-incubation.php"><img 
-        align="center" src="/images/egg-incubation.png" 
-        border="0" alt="Incubation" /></a></div>
- </div>
 </div>
 
 EOHTML;
