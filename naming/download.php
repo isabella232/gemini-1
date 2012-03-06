@@ -27,7 +27,7 @@
 <h3>Previous Milestones</h3>
 <p>
      <strong>1.0.0.M01-incubation</strong> - 
-     <a href="http://www.eclipse.org/downloads/download.php?file=/naming/milestones/gemini-naming-1.0.0.M01-incubation/gemini-naming-1.0.0.M01-incubation.zip">Download</a>
+     <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/naming/r1.0/milestones/gemini-naming-1.0.0.M01-incubation.zip">Download</a>
 </p>
 </div>
 
