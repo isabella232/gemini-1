@@ -53,7 +53,7 @@
 	<ul>
 		<li><a href="http://www.eclipse.org/gemini/web/documentation"			>Gemini Web</a></li>
 		<li><a href="http://www.eclipse.org/gemini/blueprint/documentation"		>Gemini Blueprint</a></li>
-		<li><a href="http://www.eclipse.org/gemini/jpa/documentation.php"		>Gemini JPA</a></li>
+		<li><a href="http://www.eclipse.org/gemini/jpa/documentation/index.php"		>Gemini JPA</a></li>
 		<li><a href="http://www.eclipse.org/gemini/dbaccess/documentation"		>Gemini DBAccess</a></li>
 		<li><a href="http://www.eclipse.org/gemini/management/documentation.php">Gemini Management</a></li>
 		<li><a href="http://www.eclipse.org/gemini/naming/documentation.php"	>Gemini Naming</a></li>
