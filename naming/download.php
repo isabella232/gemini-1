@@ -20,15 +20,23 @@
 
 <h2>Latest Milestone</h2>
  <p>
-     <strong>1.0.0.M02</strong> - 
-     <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/naming/r1.0/milestones/gemini-naming-1.0.0.M02.zip">Download</a>
+     <strong>1.0.0.RC1</strong> - 
+     <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/naming/r1.0/milestones/gemini-naming-1.0.0.RC1.zip">Download</a>
  </p>
+ <p>Bug list is available <a href="https://bugs.eclipse.org/bugs/buglist.cgi?classification=RT;query_format=advanced;bug_status=RESOLVED;bug_status=VERIFIED;bug_status=CLOSED;target_milestone=1.0.0.RC1;product=Gemini.Naming" target="_self">here</a>.</p>
 
 <h3>Previous Milestones</h3>
+<p>
+     <strong>1.0.0.M02</strong> - 
+     <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/naming/r1.0/milestones/gemini-naming-1.0.0.M02.zip">Download</a>
+</p>
+<p>Bug list is available <a href="https://bugs.eclipse.org/bugs/buglist.cgi?classification=RT;query_format=advanced;bug_status=RESOLVED;bug_status=VERIFIED;bug_status=CLOSED;target_milestone=1.0.0.M02;product=Gemini.Naming" target="_self">here</a>.</p>
+
 <p>
      <strong>1.0.0.M01-incubation</strong> - 
      <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/naming/r1.0/milestones/gemini-naming-1.0.0.M01-incubation.zip">Download</a>
 </p>
+<p>Bug list is available <a href="https://bugs.eclipse.org/bugs/buglist.cgi?classification=RT;query_format=advanced;bug_status=RESOLVED;bug_status=VERIFIED;bug_status=CLOSED;target_milestone=1.0.0.M01;product=Gemini.Naming" target="_self">here</a>.</p>
 </div>
 
 <div id="rightcolumn">
