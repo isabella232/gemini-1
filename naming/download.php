@@ -20,7 +20,7 @@
 	<h2>$pageTitle</h2>
 	<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
-	<h2>Gemini Naming Downloads</h2>
+	<h2>Releases</h2>
 	
     <h4>1.0.0.RELEASE</h4>
 	<div>
@@ -30,6 +30,7 @@
 		<li><strong>Bug list is available</strong> - <a href="https://bugs.eclipse.org/bugs/buglist.cgi?classification=RT;query_format=advanced;bug_status=RESOLVED;bug_status=VERIFIED;bug_status=CLOSED;target_milestone=1.0.0.M01;target_milestone=1.0.0.M02;target_milestone=1.0.0.RC1;target_milestone=1.0.0.RELEASE;product=Gemini.Naming" target="_self">here</a>.</li>
 		</ul>
 	</div>
+
 
 	<h2>Development Milestones</h2>
     
