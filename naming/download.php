@@ -27,6 +27,12 @@
 		<ul>
  		<li><strong>Gemini Naming</strong> - <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/naming/r1.0/gemini-naming-1.0.0.RELEASE.zip">Download</a></li>
 		<li><strong>Gemini Naming p2 repository</strong> - <a href='http://download.eclipse.org/gemini/updates/naming/1.0.0/' target='_self'>http://download.eclipse.org/gemini/updates/naming/1.0.0/</a></li>
+		<li>
+			<strong>Gemini Naming maven repository</strong> - <a href='http://download.eclipse.org/gemini/mvn/' target='_self'>http://download.eclipse.org/gemini/mvn/</a>
+			<br><groupId>org.eclipse</groupId></br>
+  			<br><artifactId>org.eclipse.gemini.naming</artifactId></br>
+  			<br><version>1.0.0.RELEASE</version></br>		
+		</li>
 		<li><strong>Bug list is available</strong> - <a href="https://bugs.eclipse.org/bugs/buglist.cgi?classification=RT;query_format=advanced;bug_status=RESOLVED;bug_status=VERIFIED;bug_status=CLOSED;target_milestone=1.0.0.M01;target_milestone=1.0.0.M02;target_milestone=1.0.0.RC1;target_milestone=1.0.0.RELEASE;product=Gemini.Naming" target="_self">here</a>.</li>
 		</ul>
 	</div>
