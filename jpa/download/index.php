@@ -24,15 +24,10 @@
 	$pageKeywords	= "Eclipse, EclipseRT, OSGi, JPA, Downloads";
 	$pageAuthor		= "Mike Keith";
 
-	$milestoneM1 = "1.0.0.M1-incubation";
-	$milestoneM2 = "1.0.0.M2-incubation";
-	$milestoneM3 = "1.0.0.M3-incubation";
-	$milestoneM4 = "1.0.0.M4-incubation";
-	$milestoneRC1 = "1.0.0.RC1";
-	$milestoneRC2 = "1.0.0.RC2";
-	$milestoneRC3 = "1.0.0.RC3";
+	$milestoneM1 = "1.1.0.M1";
+	$milestoneRC1 = "1.1.0.RC1";
 
-	$latestMilestone = "1.0.0.RELEASE";
+	$latestMilestone = "1.1.0.M1";
 
 	$latestRelease = "1.0.0.RELEASE";
 
@@ -50,13 +45,13 @@
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/gemini-jpa-1.0.0.RELEASE.zip" target="_self">Download</a>
 		</p>
-		<!--
+
         <h2>Latest Milestone of Gemini JPA: <?=$latestMilestone ?></h2>
 		<br/>
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/milestones/gemini-jpa-<?=$latestMilestone ?>.zip" target="_self">Download</a>
 		</p>
-		-->
+        <!--
         <h4>Milestones of Gemini JPA</h4>
 		<br/>
 		<p>
@@ -66,7 +61,7 @@
 			<br/>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/milestones/gemini-jpa-<?=$milestoneRC1 ?>.zip" target="_self">1.0.0 RC1</a>
 		</p>
-
+        -->
 	</div>
 
 	<!-- remove the entire <div> tag to omit the right column! 

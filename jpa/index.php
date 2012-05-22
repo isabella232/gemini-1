@@ -74,7 +74,7 @@
 		</div>
 		<div class="sideitem">
 			<h6>New and Noteworthy</h6>
-			<p>Gemini JPA 1.1 M1 coming soon.</p>
+			<p>Gemini JPA 1.1 M1 available now!</p>
 		</div>
 		<!-- div class="sideitem">
 			<h6>&lt;h6&gt; tag</h6>
