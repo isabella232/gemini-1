@@ -44,7 +44,7 @@
 			<ul>
 				<li><a href='http://www.eclipse.org/gemini/management/download/release-notes/1.0.2.RELEASE.php' target='_self'>View Release Notes. </a></li>
 				<li>Update Site 'http://download.eclipse.org/gemini/updates/management/1.0.2.RELEASE'</li>
-				<li><strong>Gemini Management</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/management/release-zips/1.0.2.RELEASE/org.eclipse.gemini.mgmt_1.0.2.RELEASE.jar' target='_self'>Download</a></li>
+				<li><strong>Gemini Management</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/management/release-zips/1.0.2.RELEASE/org.eclipse.gemini.management_1.0.2.RELEASE.jar' target='_self'>Download</a></li>
 			</ul>
 		</div>
 		<h4 class='toggle'>1.0.1.RELEASE</h4>

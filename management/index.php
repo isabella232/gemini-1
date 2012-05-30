@@ -32,7 +32,7 @@
 			Gemini Management implements the JMX  Specification Version 1.0 of the OSGi Service Platform Enterprise Specification, Release 4, Version 
 			4.2, section 124. To learn more about Gemini Management you can read the <a href="http://www.eclipse.org/gemini/management/documentation">
 			documentation</a>. The top level Gemini project has been around a little while now but you may still be interested in the original project 
-			<a href="http://www.eclipse.org/proposals/gemini/">proposal</a>.
+			<a href="http://www.eclipse.org/proposals/gemini/">proposal</a>. For the most up to date information, have a look at the project wiki.
 		</p>
 		
 	</div>

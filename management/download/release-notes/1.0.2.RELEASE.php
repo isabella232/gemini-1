@@ -28,7 +28,7 @@
 
 <div id="midcolumn">
 
-	<h3>1.0.1.RELEASE - Release Notes</h3>
+	<h3>1.0.2.RELEASE - Release Notes</h3>
 	
 	<p>
 		This is a minor bug fix of Gemini Management. Two extra methods have been added to the ServiceStateMBean to 
