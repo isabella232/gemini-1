@@ -25,9 +25,9 @@
 	$pageKeywords	= "Eclipse, EclipseRT, OSGi, DBAccess, Downloads";
 	$pageAuthor		= "Juergen G. Kissner";
 
-	$milestoneM1 = "1.0.0.M1-incubation";
-	$milestoneRC1 = "1.0.0.RC1";
-	$milestoneRC2 = "1.0.0.RC2";
+	$milestoneM1 = "1.1.0.M1";
+	$milestoneRC1 = "1.1.0.RC1";
+	$milestoneRC2 = "1.1.0.RC2";
 	$milestoneRELEASE = "1.0.0.RELEASE";
 	
 	$latestMilestone = "1.0.0.RELEASE";
@@ -47,16 +47,10 @@
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$latestMilestone ?>.zip" target="_self">Download</a>
 		</p>
 		
-		<h2>1.0 Milestones of Gemini DBAccess</h2>
+		<h2>1.1 Milestones of Gemini DBAccess</h2>
 		<br/>
 		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$milestoneRC2 ?>.zip" target="_self">1.0.0 RC2</a>
-		</p>
-		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$milestoneRC1 ?>.zip" target="_self">1.0.0 RC1</a>
-		</p>
-		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$milestoneM1 ?>.zip" target="_self">1.0.0 Milestone 1</a>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.1/milestones/gemini-dbaccess-<?=$milestoneM1 ?>.zip" target="_self">1.1.0 Milestone 1</a>
 		</p>
 		<h2>Gemini DBAccess Update Site</h2>
 		<p>
@@ -65,6 +59,9 @@
 		
 		<p>
 			<a href="http://download.eclipse.org/gemini/dbaccess/updates/1.0/" target="_self">1.0 Update Site</a>
+		</p>
+		<p>
+			<a href="http://download.eclipse.org/gemini/dbaccess/updates/1.1-M1/" target="_self">1.1 Milestone 1 Update Site</a>
 		</p>
 
 	</div>
