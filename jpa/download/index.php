@@ -40,11 +40,21 @@
 			All downloads are provided under the terms and conditions of the 
 			<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.
 		</p>
-        <h2>Gemini JPA 1.0.0 Release Now Available!</h2>
+        <h2>Gemini JPA Releases</h2>
 		<br/>
+        <h3>Gemini JPA 1.0.0</h3>
 		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/gemini-jpa-1.0.0.RELEASE.zip" target="_self">Download</a>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/gemini-jpa-1.0.0.RELEASE.zip" target="_self">Download Zip</a>
 		</p>
+        <h3>P2 Update site</h3>
+        <p>
+            <a href="http://download.eclipse.org/gemini/updates/jpa" target="_self">http://download.eclipse.org/gemini/updates/jpa</a>
+        </p>
+
+        <h3>Maven Repository</h3>
+        <p>
+            <a href="http://download.eclipse.org/gemini/mvn" target="_self">http://download.eclipse.org/gemini/mvn</a>
+        </p>
 
         <h2>Latest Milestone of Gemini JPA: <?=$latestMilestone ?></h2>
 		<br/>
