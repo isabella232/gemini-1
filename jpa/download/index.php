@@ -42,16 +42,16 @@
 		</p>
         <h2>Gemini JPA Releases</h2>
 		<br/>
-        <h3>Gemini JPA 1.0.0</h3>
+        <h4>Gemini JPA 1.0.0</h4>
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/gemini-jpa-1.0.0.RELEASE.zip" target="_self">Download Zip</a>
 		</p>
-        <h3>P2 Update site</h3>
+        <h4>P2 Update site</h4>
         <p>
             <a href="http://download.eclipse.org/gemini/updates/jpa" target="_self">http://download.eclipse.org/gemini/updates/jpa</a>
         </p>
 
-        <h3>Maven Repository</h3>
+        <h4>Maven Repository</h4>
         <p>
             <a href="http://download.eclipse.org/gemini/mvn" target="_self">http://download.eclipse.org/gemini/mvn</a>
         </p>
@@ -59,7 +59,7 @@
         <h2>Latest Milestone of Gemini JPA: <?=$latestMilestone ?></h2>
 		<br/>
 		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/milestones/gemini-jpa-<?=$latestMilestone ?>.zip" target="_self">Download</a>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/milestones/gemini-jpa-<?=$latestMilestone ?>.zip" target="_self">Download Zip</a>
 		</p>
         <!--
         <h4>Milestones of Gemini JPA</h4>
