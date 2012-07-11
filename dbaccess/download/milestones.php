@@ -47,35 +47,13 @@
 		<p>
 			The following are development milestones. You may prefer to <a href="http://www.eclipse.org/gemini/dbaccess/download/">download</a> an official release.
 		</p>
-	<?
-#	$first = true;
-#	foreach ($dbaccessVersions as $version){
-#		$fullVersion = str_replace("%", ".0.", $version);
-#		$directory = str_replace("%", "-", $version);
-#		
-#		echo "<h4 class='toggle'>$fullVersion";
-#		if ($first) {
-#			echo " - Latest</h4>";
-#		} else {
-#			echo "</h4>";
-#		}
-#				
-#		echo "<div class='accordion'>";
-#		echo "	<ul>";
-#		echo "		<li><a href='http://www.eclipse.org/gemini/dbaccess/download/release-notes/$fullVersion.php' target='_self'>View Release Notes</a></li>";
-#		echo "		<li><strong>Gemini DBAccess</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=gemini/dbaccess/r1.1/milestones/gemini-dbaccess-$fullVersion-updates.zip' target='_self'>Download</a></li>";
-#		echo "      <li>Update Site http://download.eclipse.org/gemini/dbaccess/updates/$directory/</li>";
-#		echo "	</ul>";
-#		echo "</div>";
-#		$first = false;
-#	}
- 	?>
+
 		<h4 class='toggle'>1.1.0.M2</h4>
 		<div class='accordion'>
 			<ul>
 				<li><a href='http://www.eclipse.org/gemini/dbaccess/download/release-notes/1.1.0.M2.php' target='_self'>View Release Notes</a></li>
 				<li>Update Site 'http://download.eclipse.org/gemini/dbaccess/updates/1.1-M2'</li>
-				<li><strong>Gemini DBAccess</strong> -  <a href="http://www.eclipse.org/downloads/download.php?file=gemini/dbaccess/r1.1/milestones/gemini-dbaccess-1.1.0.M2-updates.zip" target="_self">Download</a></li>
+				<li><strong>Gemini DBAccess p2 update site</strong> -  <a href="http://www.eclipse.org/downloads/download.php?file=gemini/dbaccess/r1.1/milestones/gemini-dbaccess-1.1.0.M2-updates.zip" target="_self">Download</a></li>
 			</ul>
 		</div>
 
@@ -84,7 +62,8 @@
 			<ul>
 				<li><a href='http://www.eclipse.org/gemini/dbaccess/download/release-notes/1.1.0.M1.php' target='_self'>View Release Notes</a></li>
 				<li>Update Site 'http://download.eclipse.org/gemini/dbaccess/updates/1.1-M1'</li>
-				<li><strong>Gemini DBAccess</strong> -  <a href="http://www.eclipse.org/downloads/download.php?file=gemini/dbaccess/r1.1/milestones/gemini-dbaccess-1.1.0.M1-updates.zip" target="_self">Download</a></li>
+				<li><strong>Gemini DBAccess p2 update site</strong> -  <a href="http://www.eclipse.org/downloads/download.php?file=gemini/dbaccess/r1.1/milestones/gemini-dbaccess-1.1.0.M1-updates.zip" target="_self">Download</a></li>
+                <li><a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.1/milestones/gemini-dbaccess-<?=$milestoneM1 ?>.zip" target="_self">1.1.0 Milestone 1</a></li>
 			</ul>
 		</div>
 				
@@ -92,7 +71,7 @@
 	</div>
 	
 	<!-- remove the entire <div> tag to omit the right column!  -->
-	<!--div id="rightcolumn">
+	<!-- div id="rightcolumn">
 		<div class="sideitem">
 		   <h6>Incubation</h6>
 		   <div id="incubation"><a href="/projects/what-is-incubation.php"><img src="/images/egg-incubation.png" border="0" alt="Incubation" /></a></div>
@@ -102,7 +81,7 @@
 				<div class="modal">
 					Wrapping your content using a div.modal tag here will add the gradient background
 				</div>
-		</div -->
+		</div>
 	</div -->
 
 <?
