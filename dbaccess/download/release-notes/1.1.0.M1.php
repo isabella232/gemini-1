@@ -40,7 +40,7 @@
 	</ul>
 	
 	<p>
-	    The list of all changes can be seen <a href="http://git.eclipse.org/c/gemini.dbaccess/org.eclipse.gemini.dbaccess.git/log/?showmsg=1" target="_self">here</a>.
+	    The list of all changes can be seen <a href="http://git.eclipse.org/c/gemini.dbaccess/org.eclipse.gemini.dbaccess.git/log/?showmsg=1" target="_self">here</a> (tag v1.1.0-M1).
 	</p>
 
 </div>
