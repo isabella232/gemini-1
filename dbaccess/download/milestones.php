@@ -48,27 +48,27 @@
 			The following are development milestones. You may prefer to <a href="http://www.eclipse.org/gemini/dbaccess/download/">download</a> an official release.
 		</p>
 	<?
-// 	$first = true;
-// 	foreach ($dbaccessVersions as $version){
-// 		$fullVersion = str_replace("%", ".0.", $version);
-// 		$directory = str_replace("%", "-", $version);
-		
-// 		echo "<h4 class='toggle'>$fullVersion";
-// 		if ($first) {
-// 			echo " - Latest</h4>";
-// 		} else {
-// 			echo "</h4>";
-// 		}
-				
-// 		echo "<div class='accordion'>";
-// 		echo "	<ul>";
-// 		echo "		<li><a href='http://www.eclipse.org/gemini/dbaccess/download/release-notes/$fullVersion.php' target='_self'>View Release Notes</a></li>";
-// 		echo "		<li><strong>Gemini DBAccess</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=gemini/dbaccess/r1.1/milestones/gemini-dbaccess-$fullVersion-updates.zip' target='_self'>Download</a></li>";
-// 		echo "      <li>Update Site http://download.eclipse.org/gemini/dbaccess/updates/$directory/</li>";
-// 		echo "	</ul>";
-// 		echo "</div>";
-// 		$first = false;
-// 	}
+#	$first = true;
+#	foreach ($dbaccessVersions as $version){
+#		$fullVersion = str_replace("%", ".0.", $version);
+#		$directory = str_replace("%", "-", $version);
+#		
+#		echo "<h4 class='toggle'>$fullVersion";
+#		if ($first) {
+#			echo " - Latest</h4>";
+#		} else {
+#			echo "</h4>";
+#		}
+#				
+#		echo "<div class='accordion'>";
+#		echo "	<ul>";
+#		echo "		<li><a href='http://www.eclipse.org/gemini/dbaccess/download/release-notes/$fullVersion.php' target='_self'>View Release Notes</a></li>";
+#		echo "		<li><strong>Gemini DBAccess</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=gemini/dbaccess/r1.1/milestones/gemini-dbaccess-$fullVersion-updates.zip' target='_self'>Download</a></li>";
+#		echo "      <li>Update Site http://download.eclipse.org/gemini/dbaccess/updates/$directory/</li>";
+#		echo "	</ul>";
+#		echo "</div>";
+#		$first = false;
+#	}
  	?>
 		<h4 class='toggle'>1.1.0.M2</h4>
 		<div class='accordion'>

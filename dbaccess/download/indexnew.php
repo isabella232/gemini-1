@@ -48,7 +48,7 @@
 			unless otherwise specified.
 		</p>
 	
-		<h4 class='toggle'>1.0.2.RELEASE</h4>
+		<h4 class='toggle'>1.0.0.RELEASE</h4>
 		<div class='accordion'>
 			<ul>
 				<li>Update Site 'http://download.eclipse.org/gemini/updates/dbaccess/1.0.0'</li>
