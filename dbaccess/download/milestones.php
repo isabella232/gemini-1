@@ -63,7 +63,7 @@
 				<li><a href='http://www.eclipse.org/gemini/dbaccess/download/release-notes/1.1.0.M1.php' target='_self'>View Release Notes</a></li>
 				<li>Update Site 'http://download.eclipse.org/gemini/dbaccess/updates/1.1-M1'</li>
 				<li><strong>Gemini DBAccess p2 update site</strong> -  <a href="http://www.eclipse.org/downloads/download.php?file=gemini/dbaccess/r1.1/milestones/gemini-dbaccess-1.1.0.M1-updates.zip" target="_self">Download</a></li>
-                <li><a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.1/milestones/gemini-dbaccess-<?=$milestoneM1 ?>.zip" target="_self">1.1.0 Milestone 1</a></li>
+                <li><a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.1/milestones/gemini-dbaccess-1.1.0.M1.zip" target="_self">1.1.0 Milestone 1</a></li>
 			</ul>
 		</div>
 				

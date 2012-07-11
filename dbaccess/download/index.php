@@ -34,36 +34,34 @@
 	
 	ob_start();
 ?>
+
+	<script type="text/javascript">
+            window.addEvent('domready', function() {
+                    new Accordion('h4.toggle', 'div.accordion', {initialDisplayFx: false});
+            });
+	</script>
 	
 	<div id="midcolumn">
 		<h2>Gemini DBAccess Downloads</h2>
 		<p>
-			All downloads are provided under the terms and conditions of the 
-			<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.
+			All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> 
+			unless otherwise specified.
 		</p>
-        <h2>Gemini DBAccess Release: <?=$latestMilestone ?></h2>
-		<br/>
-		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$latestMilestone ?>.zip" target="_self">Download</a>
-		</p>
-		
-		<h2>1.1 Milestones of Gemini DBAccess</h2>
-		<br/>
-		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.1/milestones/gemini-dbaccess-<?=$milestoneM1 ?>.zip" target="_self">1.1.0 Milestone 1</a>
-		</p>
-		<h2>Gemini DBAccess Update Site</h2>
-		<p>
-			Use the update site for your target platform via the Eclipse IDE.
-		</p>
-		
-		<p>
-			<a href="http://download.eclipse.org/gemini/dbaccess/updates/1.0/" target="_self">1.0 Update Site</a>
-		</p>
-		<p>
-			<a href="http://download.eclipse.org/gemini/dbaccess/updates/1.1-M1/" target="_self">1.1 Milestone 1 Update Site</a>
-		</p>
+	
+		<h4 class='toggle'>1.0.0.RELEASE</h4>
+		<div class='accordion'>
+			<ul>
+				<li>Update Site 'http://download.eclipse.org/gemini/updates/dbaccess/1.0.0'</li>
+				<li><strong>Gemini DBAccess</strong> -  <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.0/milestones/gemini-dbaccess-<?=$latestMilestone ?>.zip" target="_self">Download</a></li>
+			</ul>
+		</div>
 
+
+		<h2>Development Milestones</h2>
+		<p>
+			Development milestones are available for <a href="/gemini/dbaccess/download/milestones.php">download</a>. 
+		</p>
+	
 	</div>
 
 	<!-- remove the entire <div> tag to omit the right column!  -->
