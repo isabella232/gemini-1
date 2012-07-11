@@ -54,3 +54,11 @@ a:hover {
 #novaContent li {
 	list-style-image: url("/gemini/images/bullet.png");
 }
+
+.toggle {
+	cursor: pointer;
+	color: #002E62;
+}
+
+.toggle:hover {
+	color: #0093CF;

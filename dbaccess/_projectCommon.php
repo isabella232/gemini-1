@@ -39,7 +39,7 @@
 	
 	# Define keywords, author and title here, or in each PHP page specifically
 	# $pageKeywords	= "eclipse, OSGi, gemini";
-	# $pageAuthor		= "Mike Keith";
+	# $pageAuthor		= "Juergen G Kissner";
 	# $pageTitle 		= "Gemini DBAccess";
 
 	# top navigation bar
