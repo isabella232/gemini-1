@@ -1,0 +1,75 @@
+@CHARSET "UTF-8";
+
+#midcolumn {
+	width: 640px;
+	padding: 0 10px 10px 10px;
+}
+
+#rightcolumn {
+	width: 260px;
+}
+
+
+h3 {
+	clear: both;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+a {
+	color: #002E62;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #0093CF;
+	text-decoration: none;
+}
+
+a strong {
+	text-decoration: underline;
+}
+
+#novaContent {
+	background: url("/gemini/images/faux.png") repeat-y scroll 0 0 #FFFFFF;
+}
+
+#header-logo {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+	text-align: center;
+	width: 215px;
+}
+
+#content-logo img {
+	width: 150px;
+}
+
+.section {
+	clear: both;
+}
+
+.section p.left {
+	width: 48%;
+	float: left;
+}
+
+.section p.right {
+	width: 48%;
+	float: right;
+}
+
+.sideitem p {
+	margin-bottom: 0px;
+}
+
+#novaContent li {
+	list-style-image:url("/gemini/images/bullet.png");
+}
+
+#search #searchBox {
+	width:220px;
+}

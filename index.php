@@ -27,55 +27,58 @@
 	
 	ob_start();
 ?>
-<div id="content-header">
+<div id="header-logo">
 	<a id="content-logo" href="/gemini">
 		<img src="/gemini/images/logo/logo-small.png"/>
 	</a>
 </div>
-<div id="bigbuttons">
-	<h3>Primary Links</h3>
-	<ul>
-		<li><a id="buttonDownload" 		href="/gemini/gemini/download.php" 			title="Download">Module Downloads</a></li>
-		<li><a id="buttonDocumentation" href="/gemini/gemini/documentation.php" 	title="Documentation">Tutorials, Examples, Reference Documentation</a></li>
-		<li><a id="buttonSupport" 		href="/gemini/gemini/support.php" 			title="Support">Forum</a></li>
-		<li><a id="buttonInvolved" 		href="/gemini/gemini/getting_involved.php" 	title="Getting Involved">SVN, Workspace Setup, Wiki, Committers</a></li>
-	</ul>
-</div>
 
 <div id="midcolumn">
 	<h2>Gemini - Enterprise Modules Project</h2>
-	<h4>Making the world thinner... one module at a time</h4>
 	
 	<div class="section">
-		<p class="left">
-			The Enterprise Modules Project (Gemini) is all about modular implementations 
-			of Java EE technology. It provides the ability for users to consume individual modules as needed,
-			without requiring unnecessary additional runtime pieces.
-		</p>
-		<p class="right">
-			The modules currently run on the OSGi framework and leverage the OSGi bundle model
-			of packaging and lifecycle activation.
-		</p>
-	</div>
 
-	<div class="section" id="screencast">
-		<object width="640" height="10"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /></object>
-	</div>
+		<p>The Gemini project is all about modular implementations of Java EE technology. It is a collection of 
+		implementations of some of the OSGi Enterprise specifications. Each sub-project is a separate and standalone 
+		project that provides unique functionality. They can be used in isolation, in combination or with other 
+		OSGi bundles to compose a desired OSGi runtime. Brief outlines of each sub-project are below, please visit 
+		the sub-projects' pages for more detailed information. All sub-projects share the Gemini Forum for discussions.</p>
 
-<!-- 
-<div id="screencast">
-<object width="640" height="480"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=8260921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=DBD7EF&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=8260921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=DBD7EF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="480"></embed></object>
-</div>
--->
+		<h4><a href="http://www.eclipse.org/gemini/blueprint">Gemini Blueprint</a></h4>
 
-	<div id="modularity" class="section">
-		<h4>Modularity</h4>
-		<p>Each of the sub-projects is packaged as a separate and standalone module.</p>
-	</div>
+		<p>The reference implementation of the OSGi Blueprint Service defined in chapter 121 of the OSGi 4.2 Enterprise 
+		Specification. This project was originally called Spring DM before being donated to Eclipse and becoming Gemini 
+		Blueprint.</p>
 
-	<div id="independence" class="section">
-		<h4>Independence</h4>
-		<p>Most of the subproject modules are downloadable and executable independently from the others.</p>
+		<h4><a href="http://www.eclipse.org/gemini/management">Gemini Management</a></h4>
+
+		<p>Implements the JMX™ Management Model Specification defined in chapter 124 of the OSGi 4.2 Enterprise 
+		Specification. It provides a set of MBeans that allows for the administration of an OSGi runtime, the framework 
+		and its bundles and services, over JMX™.</p>
+
+		<h4><a href="http://www.eclipse.org/gemini/dbaccess">Gemini DBAccess</a></h4>
+
+		<p>Provides modularised distributions of JDBC™ drivers suitable for running in OSGi. It provides an OSGi Service 
+		so that bundles can import and access features of the driver without having to package the driver within their 
+		own bundles. Defined in chapter 125 of the OSGi 5.0 Enterprise Specification, JDBC™ Service Specification.</p>
+
+		<h4><a href="http://www.eclipse.org/gemini/naming">Gemini Naming</a></h4>
+
+		<p>Implements support for Java Naming and Directory Interface™ within an OSGi environment as defined by the 
+		JNDI™ Services Specification in chapter 126 of the OSGi 5.0 Enterprise Specification.</p>
+
+		<h4><a href="http://www.eclipse.org/gemini/jpa">Gemini JPA</a></h4>
+
+		<p>The Reference Implementation of the Java Persistence API (JPA) Service Specification defined in chapter 
+		127 of the OSGi 5.0 Enterprise Specification. This project supports the OSGi JPA service specification approach 
+		that enables clients to use JPA in an OSGi framework.</p>
+
+		<h4><a href="http://www.eclipse.org/gemini/web">Gemini Web</a></h4>
+
+		<p>Gemini Web is the Reference Implementation of the Web Applications Specification from the OSGi Alliance, 
+		defined in chapter 128 of the OSGi 4.2 Enterprise Specification. It provides support for running enterprise web 
+		applications within an OSGi framework.</p>
+
 	</div>
 
 	<div id="free" class="section">
@@ -83,17 +86,7 @@
 		<p>Like everything else at Eclipse, getting started is as easy as downloading and trying it out!</p>
 	</div>
 
-	<div id="more" class="section">
-		<h4>Find out more</h4>
-		<ul>
-			<li><a href="http://wiki.eclipse.org/Gemini">Gemini Wiki</a></li>
-			<li><a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">Gemini Forum</a></li>  
-			<li><a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">Developer Mailing List</a></li>
-			<li><a href="/projects/project_summary.php?projectid=rt.gemini">About This Project</a></li>
-		</ul>
-	</div>
-
-    <div id="rt">
+    <div id="footer-logo">
         <object width="640" height="480">
             <a href="http://www.eclipse.org/eclipsert"> 
                <img src="/equinox/images/EclipseRT.png" alt="RT"/>                
@@ -106,37 +99,22 @@
 <div id="rightcolumn">
 
 	<div class="sideitem">
-		<h6>Current Status</h6>
-		<p>Gemini subprojects have separate releases that can be obtained from their respective subsites.</p>
-	</div>
-
-	<div class="sideitem">
-		<h6>Gemini Subprojects</h6>
+		<h6>Quick Links</h6>
 		<ul>
-			<li><a href="http://www.eclipse.org/gemini/web">Gemini Web</a></li>
-			<li><a href="http://www.eclipse.org/gemini/blueprint">Gemini Blueprint</a></li>
-			<li><a href="http://www.eclipse.org/gemini/jpa">Gemini JPA</a></li>
-			<li><a href="http://www.eclipse.org/gemini/dbaccess">Gemini DBAccess</a></li>
-			<li><a href="http://www.eclipse.org/gemini/management">Gemini Management</a></li>
-			<li><a href="http://www.eclipse.org/gemini/naming">Gemini Naming</a></li>
+			<li><a href="http://wiki.eclipse.org/Gemini">Gemini Wiki</a></li>
+			<li><a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153">Gemini Forum</a></li>  
+			<li><a href="https://dev.eclipse.org/mailman/listinfo/gemini-dev">Developer Mailing List</a></li>
+			<li><a href="/projects/project_summary.php?projectid=rt.gemini">About This Project</a></li>
 		</ul>
 	</div>
 
-	<div class="sideitem" id="headlines">
+	<div class="sideitem">
 		<h6>Headlines on the web</h6>
 		<p><a href="http://campustechnology.com/articles/2010/03/25/eclipse-foundation-approves-gemini-virgo-projects.aspx">Campus technology article on Gemini project approval</a><br>Mar 25 2010</p>
         <p><a href="http://www.h-online.com/open/news/item/EclipseCon-2010-Virgo-and-Gemini-to-be-accepted-into-EclipseRT-962224.html">The H article on Gemini joining Eclipse RT</a><br>Mar 24 2010</p>
         <p><a href="http://www.eclipsecon.org/2010/sessions/sessions?id=1125">Gemini at EclipseCon</a><br>Mar 23 2010</p>
         <p><a href="http://www.devsource.com/c/a/Architecture/Oracle-SpringSource-Launch-OSGiBased-Eclipse-Project/">eWeek article on project Launch</a><br>Nov 25 2009</p>
 	</div>
-
-	<!--<div id="centreimage">
-		<object width="640" height="480">
-			<a href="http://www.eclipse.org/gemini"> 
-			   <img src="/gemini/images/geminiConstellation.png" alt="The Sign"/> 
-			</a>
-		</object>
-	</div>-->
 
 </div>
 
@@ -145,5 +123,4 @@
 
 	# Generate the web page
 	$App->generatePage($theme, $Menu, null, $pageAuthor, $pageKeywords, $pageTitle, $html);
-
 ?>
