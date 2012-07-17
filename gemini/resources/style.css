@@ -10,13 +10,16 @@
 	width: 260px;
 }
 
-
-h3 {
-	clear: both;
+h1 {
+	padding-top: 10px;
 }
 
 h1, h2 {
 	text-align: center;
+}
+
+h3 {
+	clear: both;
 }
 
 a {
@@ -39,16 +42,17 @@ a strong {
 
 #content-header {
 	width: 100%;
+	margin-bottom: 20px;
 	background-color: #E3F4FF; 
 }
 
 #content-header-logo {
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: 30px;
-    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
 	text-align: center;
-	width: 330px;
+	width: 345px;
 }
 
 #content-footer-logo {

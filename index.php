@@ -32,14 +32,14 @@
 		<a href="/gemini">
 			<img src="/gemini/gemini/images/logo/logo-small.png"/>
 		</a>
-		<h2>Gemini - Enterprise Modules Project</h2>
+		<h1>Gemini - Enterprise Modules Project</h1>
 	</div>
 </div>
 
 <div id="midcolumn">
 	
 	<div class="section">
-
+		<h2>Welcome</h2>
 		<p>The Gemini project is all about modular implementations of Java EE technology. It is a collection of 
 		implementations of some of the OSGi Enterprise specifications. Each sub-project is a separate and standalone 
 		project that provides unique functionality. They can be used in isolation, in combination or with other 
