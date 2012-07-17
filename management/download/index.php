@@ -23,6 +23,8 @@
 	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, Management, Documentation";
 	$pageAuthor		= "Christopher Frost";
 
+	$geminiManagementVersions = array("1.0.3.RELEASE", "1.0.2.RELEASE", "1.0.1.RELEASE", "1.0.0.RELEASE");
+
 	ob_start();
 ?>
 
@@ -39,52 +41,38 @@
 			unless otherwise specified.
 		</p>
 	
-		<h4 class='toggle'>1.0.2.RELEASE</h4>
-		<div class='accordion'>
-			<ul>
-				<li><a href='http://www.eclipse.org/gemini/management/download/release-notes/1.0.2.RELEASE.php' target='_self'>View Release Notes. </a></li>
-				<li>Update Site 'http://download.eclipse.org/gemini/updates/management/1.0.2.RELEASE'</li>
-				<li><strong>Gemini Management</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/management/release-zips/1.0.2.RELEASE/org.eclipse.gemini.management_1.0.2.RELEASE.jar' target='_self'>Download</a></li>
-			</ul>
-		</div>
-		<h4 class='toggle'>1.0.1.RELEASE</h4>
-		<div class='accordion'>
-			<ul>
-				<li><a href='http://www.eclipse.org/gemini/management/download/release-notes/1.0.1.RELEASE.php' target='_self'>View Release Notes. </a></li>
-				<li>Update Site 'http://download.eclipse.org/gemini/updates/management/1.0.1.RELEASE'</li>
-				<li><strong>Gemini Management</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/management/release-zips/1.0.1.RELEASE/org.eclipse.gemini.mgmt_1.0.1.RELEASE.jar' target='_self'>Download</a></li>
-			</ul>
-		</div>
-		<h4 class='toggle'>1.0.0.RELEASE</h4>
-		<div class='accordion'>
-			<ul>
-				<li><a href='http://www.eclipse.org/gemini/management/download/release-notes/1.0.0.RELEASE.php' target='_self'>View Release Notes. </a> (<a href='https://bugs.eclipse.org/bugs/attachment.cgi?id=209305' target='_self'>Download Approved IP Log</a>)</li>
-				<li>Update Site 'http://download.eclipse.org/gemini/updates/management/1.0.0.RELEASE'</li>
-				<li><strong>Gemini Management</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/management/release-zips/1.0.0.RELEASE/org.eclipse.gemini.mgmt_1.0.0.RELEASE.jar' target='_self'>Download</a></li>
-			</ul>
-		</div>
+	<?
+	$first = true;
+	foreach ($geminiManagementVersions as $version){
+		echo "<h4 class='toggle'>$version";
+		if ($first) {
+			echo " - Latest</h4>";
+		} else {
+			echo "</h4>";
+		}
+		echo "<div class='accordion'>";
+		echo "	<ul>";
+		echo "		<li><a href='http://www.eclipse.org/gemini/management/download/release-notes/$version.php' target='_self'>View Release Notes</a></li>";
+		echo "		<li>Update Site 'http://download.eclipse.org/gemini/updates/management/$version'</li>";
+		if($version == '1.0.0.RELEASE' | $version == '1.0.1.RELEASE') {
+			echo "		<li><strong>Gemini Management</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/management/release-zips/$version/org.eclipse.gemini.mgmt_$version.jar' target='_self'>Download</a>";
+		}else {
+			echo "		<li><strong>Gemini Management</strong> -  <a href='http://www.eclipse.org/downloads/download.php?file=/gemini/management/release-zips/$version/org.eclipse.gemini.management-$version.jar' target='_self'>Download</a> - ";
+			echo "			<a href='http://www.eclipse.org/downloads/download.php?file=/gemini/management/release-zips/$version/org.eclipse.gemini.management-$version-sources.jar' target='_self'>(Source)</a></li>";
+		}
+		echo "	</ul>";
+		echo "</div>";
+		$first = false;
+	}
+	?>
 
-
-		<h2>Development Milestones</h2>
+<!--		<h2>Development Milestones</h2>
 		<p>
 			Development milestones are available for <a href="/gemini/management/download/milestones.php">download</a>. 
-		</p>
+		</p>-->
 	
 	</div>
 
-<!--	<div id="rightcolumn">
-		<div class="sideitem">
-		   <h6>Incubation</h6>
-		   <div id="incubation"><a href="/projects/what-is-incubation.php"><img src="/images/egg-incubation.png" border="0" alt="Incubation" /></a></div>
-		</div>
-
-		<div class="sideitem">
-			<h6>&lt;h6&gt; tag</h6>
-				<div class="modal">
-					Wrapping your content using a div.modal tag here will add the gradient background
-				</div>
-		</div>
-	</div>-->
 
 <?
 	$html = ob_get_clean();

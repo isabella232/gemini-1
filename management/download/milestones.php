@@ -23,7 +23,7 @@
 	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, Downloads";
 	$pageAuthor		= "Christopher Frost";
 	
-	$geminiWebVersions = array("1.0.0.RC1-incubation", "1.0.0.M01-incubation");
+	$geminiManagementVersions = array("1.0.0.RC1-incubation", "1.0.0.M01-incubation");
 	
 	ob_start();
 ?>
@@ -46,7 +46,7 @@
 		</p>
 	<?
 	$first = true;
-	foreach ($geminiWebVersions as $version){
+	foreach ($geminiManagementVersions as $version){
 		echo "<h4 class='toggle'>$version";
 		if ($first) {
 			echo " - Latest</h4>";
