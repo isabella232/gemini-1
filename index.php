@@ -48,7 +48,7 @@
 
 		<h4><a href="http://www.eclipse.org/gemini/blueprint">Gemini Blueprint</a></h4>
 
-		<p>The reference implementation of the OSGi Blueprint Service defined in chapter 121 of the OSGi 4.2 Enterprise 
+		<p>The reference implementation of the OSGi Blueprint Service defined in chapter 121 of the OSGi 5.0 Enterprise 
 		Specification. This project was originally called Spring DM before being donated to Eclipse and becoming Gemini 
 		Blueprint.</p>
 
@@ -78,7 +78,7 @@
 		<h4><a href="http://www.eclipse.org/gemini/web">Gemini Web</a></h4>
 
 		<p>Gemini Web is the Reference Implementation of the Web Applications Specification from the OSGi Alliance, 
-		defined in chapter 128 of the OSGi 4.2 Enterprise Specification. It provides support for running enterprise web 
+		defined in chapter 128 of the OSGi 5.0 Enterprise Specification. It provides support for running enterprise web 
 		applications within an OSGi framework.</p>
 
 	</div>
