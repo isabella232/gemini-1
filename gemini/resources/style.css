@@ -37,12 +37,12 @@ a strong {
 	background-color: #FFFFFF;
 }
 
-#header {
+#content-header {
 	width: 100%;
 	background-color: #E3F4FF; 
 }
 
-#header-logo {
+#content-header-logo {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 30px;
@@ -51,7 +51,7 @@ a strong {
 	width: 330px;
 }
 
-#footer-logo {
+#content-footer-logo {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;

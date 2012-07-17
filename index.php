@@ -27,9 +27,9 @@
 	
 	ob_start();
 ?>
-<div id="header">
-	<div id="header-logo">
-		<a id="content-logo" href="/gemini">
+<div id="content-header">
+	<div id="content-header-logo">
+		<a href="/gemini">
 			<img src="/gemini/gemini/images/logo/logo-small.png"/>
 		</a>
 		<h2>Gemini - Enterprise Modules Project</h2>
@@ -83,16 +83,14 @@
 
 	</div>
 
-	<div id="free" class="section">
+	<div class="section">
 		<h4>Free and Easy</h4>
-		<p class="left">Like everything else at Eclipse, getting started is as easy as downloading and trying it out!</p>
-		<p class="right"
-		    <div id="footer-logo">
-				<a href="http://www.eclipse.org/eclipsert"> 
-					<img src="/equinox/images/EclipseRT.png" alt="RT"/>                
-				</a>
-		    </div>
-	    </p>
+		<p>Like everything else at Eclipse, getting started is as easy as downloading and trying it out!</p>
+		<div id="content-footer-logo">
+			<a href="http://www.eclipse.org/eclipsert"> 
+				<img src="/equinox/images/EclipseRT.png" alt="RT"/>                
+			</a>
+		</div>
 	</div>
 
 </div>
