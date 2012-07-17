@@ -34,7 +34,7 @@
 		</a>
 		<h2>Gemini - Enterprise Modules Project</h2>
 	</div>
-</header>
+</div>
 
 <div id="midcolumn">
 	
