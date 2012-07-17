@@ -37,6 +37,11 @@ a strong {
 	background-color: #FFFFFF;
 }
 
+#header {
+	width: 100%;
+	background-color: #E3F4FF; 
+}
+
 #header-logo {
     margin-left: auto;
     margin-right: auto;
@@ -74,7 +79,7 @@ a strong {
 }
 
 #novaContent li {
-	list-style-image:url("/gemini/images/bullet.png");
+	list-style-image:url("/gemini/gemini/images/bullet.png");
 }
 
 #search #searchBox {
