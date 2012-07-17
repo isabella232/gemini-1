@@ -48,7 +48,7 @@
 
 		<h4><a href="http://www.eclipse.org/gemini/blueprint">Gemini Blueprint</a></h4>
 
-		<p>The reference implementation of the OSGi Blueprint Service defined in chapter 121 of the OSGi 5.0 Enterprise 
+		<p>The Reference Implementation of the OSGi Blueprint Service defined in chapter 121 of the OSGi 5.0 Enterprise 
 		Specification. This project was originally called Spring DM before being donated to Eclipse and becoming Gemini 
 		Blueprint.</p>
 
