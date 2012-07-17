@@ -32,7 +32,10 @@
 	
 	<p>
 		This is a minor bug fix of Gemini Management. It includes some changes to work with Eclipse 3.8 (Juno) 
-		and better handling of queries against bundles that haven't been resolved. For a full list of bugs please see 
+		and better handling of queries against bundles that haven't been resolved. 
+	</p>
+	<p>
+		For a full list of bugs please see 
 		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;classification=RT;product=Gemini.Management;target_milestone=1.0.3.RELEASE" target="_self">here</a>.
 	</p>
 

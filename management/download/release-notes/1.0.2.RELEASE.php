@@ -36,6 +36,10 @@
 		all instances of 'mgmt' being replaced with 'management'. You may need to update your p2 references if 
 		you use the update site.
 	</p>
+	<p>
+		For a full list of bugs please see 
+		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;classification=RT;product=Gemini.Management;target_milestone=1.0.2.RELEASE" target="_self">here</a>.
+	</p>
 
 
 </div>
