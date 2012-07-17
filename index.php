@@ -31,10 +31,10 @@
 	<a id="content-logo" href="/gemini">
 		<img src="/gemini/images/logo/logo-small.png"/>
 	</a>
+	<h2>Gemini - Enterprise Modules Project</h2>
 </div>
 
 <div id="midcolumn">
-	<h2>Gemini - Enterprise Modules Project</h2>
 	
 	<div class="section">
 
@@ -87,11 +87,9 @@
 	</div>
 
     <div id="footer-logo">
-        <object width="640" height="480">
-            <a href="http://www.eclipse.org/eclipsert"> 
-               <img src="/equinox/images/EclipseRT.png" alt="RT"/>                
-            </a>
-        </object>
+		<a href="http://www.eclipse.org/eclipsert"> 
+			<img src="/equinox/images/EclipseRT.png" alt="RT"/>                
+		</a>
     </div>
 
 </div>
