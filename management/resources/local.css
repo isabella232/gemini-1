@@ -24,6 +24,12 @@
     width: 144px;
 }
 
+#leftnav li.about {
+	list-style-image: url("/gemini/management/images/bullet.png");
+	margin-left: 30px;
+    padding: 0;
+}
+
 #novaContent.faux  {
 	background: url("/gemini/management/images/faux.png") repeat-y scroll 0 0 #FFFFFF;
 }
