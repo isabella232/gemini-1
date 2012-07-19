@@ -26,8 +26,8 @@
 	
 	# Break the navigation into sections
 	$Nav->addNavSeparator("Gemini Home", 			"/gemini", 							"_self", 3);
-	$Nav->addCustomNav("About This Project", 		"http://www.eclipse.org/projects/project_summary.php?projectid=rt.gemini.management",    		"_self", 3);
-	$Nav->addNavSeparator("Gemini Management Home", "/gemini/management/", 				"_self", 3);
+	$Nav->addCustomNav("Management Home", 			"/gemini/management/", 				"_self", 3);
+	$Nav->addCustomNav("About This Project", 		"/projects/project_summary.php?projectid=rt.gemini.management",    		"_self", 3);
 	$Nav->addCustomNav("Download", 					"/gemini/management/download", 		"_self", 3);
 	$Nav->addCustomNav("Documentation", 			"/gemini/management/documentation",	"_self", 3);
 	$Nav->addCustomNav("Support", 					"/gemini/management/support", 		"_self", 3);
