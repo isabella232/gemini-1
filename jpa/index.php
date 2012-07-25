@@ -40,7 +40,8 @@
 
 		<h4>Modularity</h4>
 		<p>
-			The Gemini JPA project is packaged as a separate standalone module. An additional module is also available to perform weaving when lazy loading of many-to-one relationships is desired. 
+			The Gemini JPA project is packaged as a separate standalone module and added to the EclipseLink modules at time of installation. Additional 
+			Gemini DBAccess and database modules (recommended) can be added for improved modularity.			 
 		</p>
 		<h4>Independence</h4>
 		<p>
@@ -70,7 +71,7 @@
 		</div>
 		<div class="sideitem">
 			<h6>Current Status</h6>
-			<p>The project is tracking for its 1.1 release targeted for June 2012.</p>
+			<p>The project is tracking for its 1.1 release targeted for Sept 2012.</p>
 		</div>
 		<div class="sideitem">
 			<h6>New and Noteworthy</h6>
