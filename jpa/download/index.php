@@ -62,6 +62,12 @@
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/milestones/gemini-jpa-<?=$latestMilestone ?>.zip" target="_self">Download Zip</a>
 		</p>
+        <p>
+            Gemini JPA milestone P2 update site: http://download.eclipse.org/gemini/jpa/updates
+        </p>
+        <p>
+            Gemini JPA milestone maven repo: http://download.eclipse.org/gemini/jpa/mvn
+        </p>
         <!--
         <h4>Milestones of Gemini JPA</h4>
 		<br/>
