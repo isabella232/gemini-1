@@ -25,9 +25,10 @@
 	$pageAuthor		= "Mike Keith";
 
 	$milestoneM1 = "1.1.0.M1";
+    $milestoneM2 = "1.1.0.M2";
 	$milestoneRC1 = "1.1.0.RC1";
 
-	$latestMilestone = "1.1.0.M1";
+	$latestMilestone = "1.1.0.M2";
 
 	$latestRelease = "1.0.0.RELEASE";
 
