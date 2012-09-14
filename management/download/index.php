@@ -66,10 +66,10 @@
 	}
 	?>
 
-<!--		<h2>Development Milestones</h2>
+		<h2>Development Milestones</h2>
 		<p>
-			Development milestones are available for <a href="/gemini/management/download/milestones.php">download</a>. 
-		</p>-->
+			Development milestones for the 2.0.x line are available for <a href="/gemini/management/download/milestones.php">download</a>. 
+		</p>
 	
 	</div>
 
