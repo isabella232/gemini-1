@@ -28,7 +28,7 @@
     $milestoneM2 = "1.1.0.M2";
 	$milestoneRC1 = "1.1.0.RC1";
 
-	$latestMilestone = "1.1.0.M2";
+	$latestMilestone = "1.1.0.RC1";
 
 	$latestRelease = "1.0.0.RELEASE";
 
@@ -54,7 +54,7 @@
 
         <h4>Maven Repository</h4>
         <p>
-            <a href="http://download.eclipse.org/gemini/mvn" target="_self">http://download.eclipse.org/gemini/mvn</a>
+            http://download.eclipse.org/gemini/mvn
         </p>
 
         <h2>Latest Milestone of Gemini JPA: <?=$latestMilestone ?></h2>
