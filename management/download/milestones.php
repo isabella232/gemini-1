@@ -66,10 +66,10 @@
 	</div>
 	
 	<div id="rightcolumn">
-		<div class="sideitem">
+<!--		<div class="sideitem">
 		   <h6>Incubation</h6>
 		   <div id="incubation"><a href="/projects/what-is-incubation.php"><img src="/images/egg-incubation.png" border="0" alt="Incubation" /></a></div>
-		</div>
+		</div>-->
 		<!-- div class="sideitem">
 			<h6>&lt;h6&gt; tag</h6>
 				<div class="modal">
