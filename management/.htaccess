@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule	  ^/gemini/management/(.*)    http://www.eclipse.org/management/$1 [R,L]
