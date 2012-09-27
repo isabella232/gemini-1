@@ -26,7 +26,7 @@
 	$pageAuthor		= "Juergen G. Kissner";
 		
 	# $dbaccessVersions = array("1.1.0.M2", "1.1.0.M1");
-	$dbaccessVersions = array("1.1%M2", "1.1%M1");
+	$dbaccessVersions = array("1.1%M2", "1.1%M1", "1.1%M3");
 	
 	ob_start();
 ?>
@@ -47,6 +47,16 @@
 		<p>
 			The following are development milestones. You may prefer to <a href="http://www.eclipse.org/gemini/dbaccess/download/">download</a> an official release.
 		</p>
+
+		<h4 class='toggle'>1.1.0.M3</h4>
+		<div class='accordion'>
+			<ul>
+				<li><a href='http://www.eclipse.org/gemini/dbaccess/download/release-notes/1.1.0.M3.php' target='_self'>View Release Notes</a></li>
+				<li>Update Site 'http://download.eclipse.org/gemini/dbaccess/updates/1.1-M3'</li>
+				<li><strong>Gemini DBAccess p2 update site</strong> -  <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/dbaccess/r1.1/milestones/gemini-dbaccess-1.1.0.M3-updates.zip" target="_self">Download</a></li>
+			</ul>
+		</div>
+
 
 		<h4 class='toggle'>1.1.0.M2</h4>
 		<div class='accordion'>
