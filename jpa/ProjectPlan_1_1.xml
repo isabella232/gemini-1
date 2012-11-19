@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?><!DOCTYPE plan SYSTEM "plan.dtd">
+<?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
+<plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Gemini JPA">
+   <release projectid="rt.gemini.jpa" version="1.1.0"/>
+   <introduction>
+     <html:div>A subproject of Gemini that provides a modular implementation of JPA.</html:div>
+   </introduction>
+   <release_deliverables>
+     <html:div>A set of bundles that should be added to a subset of the EclipseLink JPA provider bundles.</html:div>
+   </release_deliverables>
+   <release_milestones>
+      <preamble>
+         <html:div>A set of milestones and release candidates will provide the functionality before the actual release.</html:div>
+      </preamble>
+      <milestone date="May 22, 2012" milestone="M1"></milestone>
+      <milestone date="Aug 29, 2012" milestone="M2"></milestone>
+      <milestone date="Sept 10, 2012" milestone="RC1"></milestone>
+      <milestone date="Sept 17, 2012" milestone="1.1.0"/>
+      <postamble><html:div>The release will assume Equinox 3.7 or any OSGi framework that supports the Core Specification v4.3.</html:div></postamble>
+   </release_milestones>
+   <target_environments>
+     <html:div>Gemini JPA 1.1 is targeted to run in any standard OSGi framework environment.</html:div>
+     <internationalization>
+          <html:div>No internationalization is planned for the release.</html:div>
+     </internationalization>
+   </target_environments>
+   <compatibility_with_previous_releases>
+       <html:div>Complete compatibility with previous 1.0 release.</html:div>
+   </compatibility_with_previous_releases>
+   <themes_and_priorities>
+     <preamble>
+         <html:div>The following themes and priorities were considered during Gemini JPA 1.1 development.</html:div>
+     </preamble>
+     <theme name="Extensions">
+        <description>Users have been asking for features beyond what the spec defines. In this release we will attempt to add many of the enhancements that have been requested.</description>
+     </theme>
+     <theme name="Compliance">
+        <description>To remain compliant with both the JPA and the OSGi JPA specifications</description>
+     </theme>
+<!--
+        <committed bugzilla="...(recommended) bugzilla search url...">
+           ...(optional alternate) html...</committed>
+        <proposed bugzilla="...(recommended) bugzilla search url...">
+           ...(optional alternate) html...</proposed>
+        <deferred bugzilla="...(recommended) bugzilla search url...">
+           ...(optional alternate) html...</deferred>
+-->
+   </themes_and_priorities>
+   <appendix />
+ </plan>

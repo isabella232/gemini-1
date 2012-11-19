@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project>
+  <name>Gemini Blueprint Project</name>
+  <short-name>Blueprint</short-name>
+  
+  <bugzilla>
+    <product name="gemini.Blueprint"/>
+  </bugzilla>
+
+  <!-- 
+  <team url="/gemini/blueprint/about.php" />
+  -->
+  <cvs repository="/rt/">
+    <module path="org.eclipse.gemini.blueprint" /> 
+  </cvs>
+
+  <description url="/gemini/blueprint/project-info/description.html"
+     paragraph-url="/gemini/blueprint/project-info/project-page-paragraph.html"/>
+  
+  <summary paragraph-url="/gemini/blueprint/project-info/executive-summary.html"/>
+  
+  <ip-log url="http://www.eclipse.org/projects/ip_log.php?projectid=rt.gemini.blueprint" /> 
+  
+  <releases>
+  </releases>
+</project>
