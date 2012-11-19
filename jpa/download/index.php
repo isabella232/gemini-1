@@ -25,12 +25,12 @@
 	$pageAuthor		= "Mike Keith";
 
 	$milestoneM1 = "1.1.0.M1";
-    $milestoneM2 = "1.1.0.M2";
+	$milestoneM2 = "1.1.0.M2";
 	$milestoneRC1 = "1.1.0.RC1";
 
-	$latestMilestone = "1.1.0.RC1";
+	$latestMilestone = "1.1.0.RELEASE";
 
-	$latestRelease = "1.0.0.RELEASE";
+	$latestRelease = "1.1.0.RELEASE";
 
 	ob_start();
 ?>
@@ -41,21 +41,35 @@
 			All downloads are provided under the terms and conditions of the 
 			<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.
 		</p>
-        <h2>Gemini JPA Releases</h2>
+        <h2>Latest Gemini JPA Release</h2>
 		<br/>
-        <h4>Gemini JPA 1.0.0</h4>
+        <h4>Gemini JPA 1.1</h4>
+          <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/gemini-jpa-1.1.0.RELEASE.zip" target="_self">
+            <img align="left" src="http://dev.eclipse.org/huge_icons/actions/go-bottom.png" alt="Download" />
+            <br/><br/>
+          <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/gemini-jpa-1.1.0.RELEASE.zip" target="_self"> Download Zip</a> 
+             <br/><br/><br/>
+		<p>
+			Update site - http://download.eclipse.org/gemini/updates/jpa/1.1.0
+		</p>
+		<p>
+			Maven repo - http://download.eclipse.org/gemini/mvn
+		</p>
+
+        <h2>Previous Gemini JPA Releases</h2>
+		<br/>
+	<h4>Gemini JPA 1.0</h4>
+	        <br/>
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/gemini-jpa-1.0.0.RELEASE.zip" target="_self">Download Zip</a>
 		</p>
-        <h4>P2 Update site</h4>
-        <p>
-            <a href="http://download.eclipse.org/gemini/updates/jpa" target="_self">http://download.eclipse.org/gemini/updates/jpa</a>
-        </p>
-
-        <h4>Maven Repository</h4>
-        <p>
-            http://download.eclipse.org/gemini/mvn
-        </p>
+		<p>
+			Update site - http://download.eclipse.org/gemini/updates/jpa/1.0.0
+		</p>
+		<p>
+			Maven repo - http://download.eclipse.org/gemini/mvn
+		</p>
+<!--
 
         <h2>Latest Milestone of Gemini JPA: <?=$latestMilestone ?></h2>
 		<br/>
@@ -68,7 +82,7 @@
         <p>
             Gemini JPA milestone maven repo - http://download.eclipse.org/gemini/jpa/mvn
         </p>
-        <!--
+
         <h4>Milestones of Gemini JPA</h4>
 		<br/>
 		<p>
