@@ -20,16 +20,16 @@
  *******************************************************************************/
 
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Gemini JPA Home";
-	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, JPA, Home";
-	$pageAuthor		= "Mike Keith";
-			
+	$pageTitle      = "Gemini JPA Home";
+	$pageKeywords   = "Eclipse, EclipseRT, Gemini, OSGi, JPA, Home";
+	$pageAuthor     = "Mike Keith";
+
 	ob_start();
 ?>
 	<div id="midcolumn">
 		<div class="logo"><h1>Gemini JPA</h1></div>
 		<p>
-			The Gemini JPA project is about modular implementations of Java Persistence API technology. 
+			The Gemini JPA project is about modular implementations of the Java Persistence API. 
 			This project currently provides the integration with the EclipseLink JPA provider to support the
 			OSGi JPA specification approach that clients can use to get JPA support in an OSGi framework.
 		</p>
@@ -71,11 +71,11 @@
 		</div>
 		<div class="sideitem">
 			<h6>Current Status</h6>
-			<p>The project is tracking for its 1.1 release targeted for Sept 2012.</p>
+			<p>Gemini JPA 1.1 has been released, v1.2 is under development.</p>
 		</div>
 		<div class="sideitem">
 			<h6>New and Noteworthy</h6>
-			<p>Gemini JPA 1.1 M1 available now!</p>
+			<p>Gemini JPA 1.1 now available!</p>
 		</div>
 		<!-- div class="sideitem">
 			<h6>&lt;h6&gt; tag</h6>
