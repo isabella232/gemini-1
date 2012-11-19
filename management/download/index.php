@@ -23,7 +23,7 @@
 	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, Management, Documentation";
 	$pageAuthor		= "Christopher Frost";
 
-	$geminiManagementVersions = array("1.0.3.RELEASE", "1.0.2.RELEASE", "1.0.1.RELEASE", "1.0.0.RELEASE");
+	$geminiManagementVersions = array("1.0.5RELEASE", "1.0.4.RELEASE", "1.0.3.RELEASE", "1.0.2.RELEASE", "1.0.1.RELEASE", "1.0.0.RELEASE");
 
 	ob_start();
 ?>
