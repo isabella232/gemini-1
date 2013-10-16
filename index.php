@@ -54,9 +54,9 @@
 
 		<h4><a href="http://www.eclipse.org/gemini/management">Gemini Management</a></h4>
 
-		<p>Implements the JMX™ Management Model Specification version 1.1 defined in chapter 124 of the OSGi Enterprise 
+		<p>Implements the JMXâ„¢ Management Model Specification version 1.1 defined in chapter 124 of the OSGi Enterprise 
 		Release 5 Specification. It provides a set of MBeans that allows for the administration of an OSGi runtime, the 
-		framework and its bundles and services, over JMX™.</p>
+		framework and its bundles and services, over JMXâ„¢.</p>
 
 		<h4><a href="http://www.eclipse.org/gemini/dbaccess">Gemini DBAccess</a></h4>
 
